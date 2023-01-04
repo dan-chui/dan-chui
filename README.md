@@ -7,7 +7,7 @@ Web Developer
 I am a Front-End Developer who loves designing and creating using JavaScript and React.
 
 * 🌍  I'm based in Tokyo, Japan
-* 🖥️  See my portfolio at [My Portfolio](http://www.danchui.dev/)
+* 🖥️  See [My Portfolio](http://www.danchui.dev/)
 * ✉️  You can contact me at [contact@danchui.dev](mailto:contact@danchui.dev)
 * 🧠  I'm learning React.js
 * ⚡  I love taking photos!
