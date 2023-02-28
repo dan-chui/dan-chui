@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a Front-End Developer who loves designing and creating using JavaScript and React.
+I am a Web Developer who loves designing and creating using JavaScript and React.
 
 * 🌍  I'm based in Tokyo, Japan
 * 🖥️  See [My Portfolio](http://www.danchui.dev/)
 * ✉️  You can contact me at [contact@danchui.dev](mailto:contact@danchui.dev)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning the MERN stack
 * ⚡  I love taking photos!
 
 ### Skills
