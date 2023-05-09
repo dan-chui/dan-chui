@@ -9,7 +9,7 @@ I am a Web Developer who loves designing and creating using JavaScript!
 * 🌍  I'm based in Tokyo, Japan
 * 🖥️  See [My Portfolio](http://www.danchui.dev/)
 * ✉️  You can contact me at [contact@danchui.dev](mailto:contact@danchui.dev)
-* 🧠  I'm learning React and Angular
+* 🧠  I'm learning React.js and Angular.js
 * ⚡  I love taking photos!
 
 ### Skills
