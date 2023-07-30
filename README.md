@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a Front-End Web Developer who loves designing and creating using JavaScript!
+I am a Front-End Web Developer who loves designing and creating using JavaScript and modern frameworks!
 
 * 🌎  I'm based in Tokyo, Japan
 * 🖥️  See: [My Portfolio](http://www.danchui.dev/)
