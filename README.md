@@ -8,7 +8,7 @@ I am a Front-End Web Developer who loves designing and creating using JavaScript
 
 * 🌎  I'm based in Tokyo, Japan
 * 💻  See: [My Portfolio](http://www.danchui.dev/)
-* 📨  You can email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
+* 📩  You can email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
 * 🚀  I'm deep-diving into React.js and Angular.js
 * ⚡  I love taking photos!
 
