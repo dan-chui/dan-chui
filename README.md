@@ -9,8 +9,8 @@ I am a Front-End Web Developer who loves designing and creating using JavaScript
 * 🌎  I'm based in Tokyo, Japan
 * 💻  Visit: [My Portfolio](http://www.danchui.dev/)
 * 📩  You can email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
-* 🚀  I'm currently deep-diving into frameworks (React.js | Angular.js | Vue.js)
-* 🎯  I'm interested in learning Next.js | MongoDB | Jest
+* 🚀  I'm currently deep-diving into frameworks: React.js | Angular.js | Vue.js
+* 🎯  I'm interested in learning: Next.js | MongoDB | Jest
 * ⚡  I love taking photos!
 
 ### Skills
