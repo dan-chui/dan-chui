@@ -10,7 +10,7 @@ I am a Front-End Web Developer who loves designing and creating using JavaScript
 * 💻  Visit: [My Portfolio](http://www.danchui.dev/)
 * 📩  You can email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
 * 🚀  I'm currently deep-diving into frameworks: React.js | Angular.js | Vue.js
-* 🎯  I'm interested in learning: Next.js | MongoDB | Jest
+* 🎯  I'm interested in learning: Next.js | MongoDB | Jest | Nuxt.js
 * ⚡  I love taking photos!
 
 ### Skills
