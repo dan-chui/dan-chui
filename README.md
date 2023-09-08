@@ -9,12 +9,13 @@ I love designing and creating using JavaScript and modern frameworks!
 * 🌎  I'm based in Tokyo, Japan
 * 💻  Visit: [My Portfolio](http://www.danchui.dev/)
 * 📩  You can email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
+* 📳  Connect via [LinkedIn](https://www.linkedin.com/in/danchui/)
 * 🚀  I'm currently deep-diving into frameworks: React.js | Angular | Vue.js
 * 🎯  I'm interested in learning: Next.js | MongoDB | Jest | Nuxt.js
 * ⚡  I love taking photos!
 
-### Skills
 
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -34,9 +35,6 @@ I love designing and creating using JavaScript and modern frameworks!
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/dan-chui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danchui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
