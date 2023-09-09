@@ -8,10 +8,10 @@ I love designing and creating using JavaScript and modern frameworks!
 
 * 🌎  I'm based in Tokyo, Japan
 * 💻  Visit: [My Portfolio](http://www.danchui.dev/)
-* 📩  You can email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
-* 📳  Connect via [LinkedIn](https://www.linkedin.com/in/danchui/)
-* 🚀  I'm currently deep-diving into frameworks: React.js | Angular | Vue.js
-* 🎯  I'm interested in learning: Next.js | MongoDB | Jest | Nuxt.js
+* 📩  Email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
+* 📳  Let's connect via: [LinkedIn](https://www.linkedin.com/in/danchui/)
+* 🚀  I'm currently deep-diving into: React.js | Angular | Vue.js
+* 🎯  I'm interested in: Next.js | MongoDB | Jest | Nuxt.js
 * ⚡  I love taking photos!
 
 
