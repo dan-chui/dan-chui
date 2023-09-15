@@ -7,7 +7,7 @@ Web Developer
 I love designing and creating using JavaScript and modern frameworks!
 
 * 🌎  I'm based in Tokyo, Japan
-* 💻  Visit: [My Portfolio](http://www.danchui.dev/)
+* 💻  Visit: [My Portfolio](https://danchui.dev/)
 * 📩  Email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
 * 📳  Let's connect via: [LinkedIn](https://www.linkedin.com/in/danchui/)
 * 🚀  I'm currently deep-diving into: React.js | Angular | Vue.js
