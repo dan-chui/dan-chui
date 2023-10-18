@@ -7,7 +7,7 @@ I love designing and creating using JavaScript and modern frameworks!
 * 💻  Visit: [My Portfolio](https://www.danchui.dev/)
 * 📩  Email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
 * 📳  Let's connect via: [LinkedIn](https://www.linkedin.com/in/danchui/)
-* 🚀  I'm currently deep-diving into: React.js | Angular | Vue.js
+* 🚀  I'm deep-diving into: React.js | Angular | Vue.js
 * 🎯  I'm interested in: Next.js | MongoDB | Jest | Nuxt.js
 * ⚡  I love taking photos!
 
