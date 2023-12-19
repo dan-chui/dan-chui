@@ -8,7 +8,7 @@ I love designing and creating using JavaScript and modern frameworks!
 * 📩  Email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
 * 📳  Let's connect via: [LinkedIn](https://www.linkedin.com/in/danchui/)
 * 🚀  I'm deep-diving into: React.js | Angular | Vue.js
-* 🎯  I'm interested in: MongoDB | Jest | Nuxt.js
+* 🎯  I'm interested in: SQL | MongoDB | Nuxt.js | Jest
 * ⚡  I love taking photos!
 
 
