@@ -1,4 +1,4 @@
-<h1>Hi! My name is Dan Chui</h1>
+<h1>Hi! My name is Dan Chui 👋</h1>
 <h2>Web Developer</h2>
 
 I love designing and creating using JavaScript and modern frameworks!
