@@ -6,7 +6,6 @@ I love designing and creating using JavaScript and modern frameworks!
 * 🌎  I'm based in Tokyo, Japan
 * 💻  Visit: [My Portfolio](https://www.danchui.dev/)
 * 📩  Email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
-* 📳  Let's connect via: [LinkedIn](https://www.linkedin.com/in/danchui/)
 * ✒️  Check out my Blog: [Happy Bytes](https://happy-bytes.vercel.app/)
 * 🚀  I'm deep-diving into: React.js | Vue.js
 * 🎯  I'm interested in: PHP | SQL | Nuxt.js |
