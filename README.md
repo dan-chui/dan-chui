@@ -62,6 +62,13 @@ I share my **study notes, labs, and projects** on GitHub and my blog to document
 - **Risk-oriented:** Translate findings into business impact for non-technical audiences
 
 ---
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+---
 
 ## Contact
 - **LinkedIn:** <a href="https://www.linkedin.com/in/danchui/" target="_blank">Dan Chui</a>  
