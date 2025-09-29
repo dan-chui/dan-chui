@@ -1,40 +1,70 @@
-<h1>Hi! My name is Dan Chui 👋</h1>
-<h2>Web Developer</h2>
+# Hi, I'm Dan 👋  
+**SOC & GRC Analyst** • Tokyo, Japan  
+Cybersecurity | Security Operations | Risk & Compliance
 
-I love designing and creating using JavaScript and modern frameworks!
+<a href="https://www.linkedin.com/in/danchui/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+</a>
+<a href="https://happy-bytes.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-HappyBytes-green" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Tokyo-Japan-red" />
+</a>
 
-* 🌎  I'm based in Tokyo, Japan
-* 💻  Visit: [My Portfolio](https://www.danchui.dev/)
-* 📩  Email me at: [contact@danchui.dev](mailto:contact@danchui.dev)
-* 🚀  I'm deep-diving into: React.js | Vue.js
-* 🎯  I'm interested in: PHP | SQL | Nuxt.js |
-* ⚡  I love taking photos!
+---
 
+## About Me
+I’m transitioning into **Cybersecurity with a dual focus**:  
+- **SOC (Security Operations Center):** hands-on skills in log analysis, detection, and incident response  
+- **GRC (Governance, Risk & Compliance):** frameworks, risk management, and ISO/IEC 27001  
 
-### Skills
+I share my **study notes, labs, and projects** on GitHub and my blog to document this career transition.  
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+- 🔭 **Current focus:** SOC labs (TryHackMe SAL1 path), ISO/IEC 27001, incident documentation
+- 📝 **Writing:** Roadmaps, lab summaries, risk registers, and compliance templates  
+- 🎯 **Approach:** Blend **hands-on blue team skills** with **framework-driven governance knowledge**
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+---
 
-</p>
+## What I’m Working On (Now → Next)
+- **SOC Foundations:** Completing **TryHackMe Security Analyst Level 1 (SAL1)** learning path  
+- **SIEM Practice:** Splunk log ingestion, detections, and incident triage workflows  
+- **Network Analysis:** Capturing traffic with **Wireshark** and scanning with **Nmap**  
+- **Compliance & Risk:** Building a starter **ISO 27001 risk register** and control mapping  
+- **Certifications:** Preparing for **ISC2 Certified in Cybersecurity (CC)** and ISO 27001 training
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/dan-chui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dan-chui&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Skills & Tools
+**SOC / Blue Team:** SIEM (Splunk basics), log analysis, alert triage, packet analysis (Wireshark), Nmap  
+**GRC / Frameworks:** ISO/IEC 27001, NIST CSF (intro), risk registers, controls & policies  
+**Networking:** TCP/IP, HTTP(S), DNS basics  
+**Cloud & Platforms:** AWS (past CCP), Git/GitHub, Markdown  
+**Scripting (learning):** Python for log parsing & automation (beginner)
+
+---
+
+## Learning Roadmap
+- **Q4 2025**
+  - Finish **TryHackMe SAL1** learning path  
+  - Take **ISC2 CC** exam  
+  - Publish **SOC Lab Reports** and **ISO 27001 Risk Register**
+- **Q1–Q2 2026**
+  - Build a **portfolio of SOC triage reports** & a **mini-incident runbook**  
+  - Deepen **ISO 27001**: control mapping, sample SoA, and risk mitigation templates  
+
+---
+
+## How I Work
+- **Lab-first:** Hands-on exercises, followed by structured reports  
+- **Reproducible repos:** Step-by-step guides, screenshots, configs  
+- **Risk-oriented:** Translate findings into business impact for non-technical audiences
+
+---
+
+## Contact
+- **LinkedIn:** <a href="https://www.linkedin.com/in/danchui/" target="_blank">Dan Chui</a>  
+- **Blog:** <a href="https://happy-bytes.vercel.app/" target="_blank">Happy Bytes</a>  
+
+> Open to junior **SOC Analyst** or **GRC Analyst** opportunities — Tokyo or remote.
