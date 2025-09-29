@@ -27,6 +27,14 @@ I share my **study notes, labs, and projects** on GitHub and my blog to document
 
 ---
 
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+---
+
 ## What I’m Working On (Now → Next)
 - **SOC Foundations:** Completing **TryHackMe Security Analyst Level 1 (SAL1)** learning path  
 - **SIEM Practice:** Splunk log ingestion, detections, and incident triage workflows  
@@ -60,13 +68,6 @@ I share my **study notes, labs, and projects** on GitHub and my blog to document
 - **Lab-first:** Hands-on exercises, followed by structured reports  
 - **Reproducible repos:** Step-by-step guides, screenshots, configs  
 - **Risk-oriented:** Translate findings into business impact for non-technical audiences
-
----
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
 
 ---
 
