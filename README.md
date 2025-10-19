@@ -29,9 +29,13 @@ I share my **study notes, labs, and projects** on GitHub and my blog to document
 
 ## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+<a href="https://www.comptia.org/certifications/security" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-EA1C24?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
+</a>
+
+<a href="https://www.isc2.org/certifications/cc" target="_blank">
+  <img src="https://img.shields.io/badge/(ISC)²%20Certified%20in%20Cybersecurity-00A99D?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity (CC)" />
+</a>
 
 ---
 
@@ -50,17 +54,6 @@ I share my **study notes, labs, and projects** on GitHub and my blog to document
 **Networking:** TCP/IP, HTTP(S), DNS basics  
 **Cloud & Platforms:** AWS (past CCP), Git/GitHub, Markdown  
 **Scripting (learning):** Python for log parsing & automation (beginner)
-
----
-
-## Learning Roadmap
-- **Q4 2025**
-  - Finish **TryHackMe SAL1** learning path  
-  - Take **ISC2 CC** exam  
-  - Publish **SOC Lab Reports** and **ISO 27001 Risk Register**
-- **Q1–Q2 2026**
-  - Build a **portfolio of SOC triage reports** & a **mini-incident runbook**  
-  - Deepen **ISO 27001**: control mapping, sample SoA, and risk mitigation templates  
 
 ---
 
