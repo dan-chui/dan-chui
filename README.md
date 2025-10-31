@@ -70,4 +70,4 @@ My goal is to combine **technical blue-team skills** with **policy and framework
 - **LinkedIn:** <a href="https://www.linkedin.com/in/danchui/" target="_blank">Dan Chui</a>  
 - **Blog:** <a href="https://happy-bytes.vercel.app/" target="_blank">Happy Bytes</a>  
 
-> Open to junior **SOC Analyst** or **GRC Analyst** opportunities — Tokyo or remote.
+> Open to **SOC Analyst** or **GRC Analyst** opportunities — Tokyo or remote.
