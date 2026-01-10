@@ -29,6 +29,30 @@ SOC運用（ログ分析・インシデント対応）とGRC（リスク管理�
 
 ---
 
+## 📂 Completed Projects
+
+### 🔍 SIEM Log Analysis Report (SOC)
+**Focus:** Detection, investigation, and documentation of suspicious HTTP-based activity  
+- Analyzed real-world attack scenarios including vulnerability exploitation and data exfiltration  
+- Performed packet-level inspection using **Wireshark** and decoding with **CyberChef**  
+- Correlated events and timelines using **Splunk** to support investigation findings  
+- Produced a SOC-style report with observations, impact, and remediation guidance  
+
+➡️ <a href="https://github.com/dan-chui/SIEM-Log-Analysis-Report" target="_blank">SIEM Log Analysis Report</a>
+
+---
+
+### 🛡 ISO/IEC 27001 Risk Register (GRC)
+**Focus:** Risk identification, assessment, and control mapping aligned to ISO 27001:2022  
+- Built a comprehensive **Risk Register** for a small education-service scenario  
+- Assessed risks using **Likelihood × Impact** scoring and residual risk evaluation  
+- Mapped risks to **Annex A controls** across organizational, people, physical, and technological domains  
+- Demonstrates practical application of governance, risk treatment, and documentation  
+
+➡️ <a href="https://github.com/dan-chui/Risk-Register" target="_blank">Risk Register</a>
+
+---
+
 ## 🎓 Certifications  
 
 <a href="https://www.comptia.org/certifications/security" target="_blank">
