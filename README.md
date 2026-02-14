@@ -22,6 +22,7 @@ My focus is on translating **technical security signals** (logs, network traffic
 - 🎓 **Completed:** *Cybersecurity for Managers: A Playbook* – MIT Sloan School of Management  
 - 🔭 **Current Focus:** SIEM log analysis, incident triage, operational workflows, SAL1 preparation  
 - 🧭 **Approach:** Monitor → Investigate → Escalate → Document → Improve  
+- 🛠 **Enterprise Exposure:** Microsoft Sentinel, Defender for Endpoint, Tenable, Azure VM environments  
 - 📝 **Writing:** Project walkthroughs and reflections on [**Happy Bytes**](https://happy-bytes.vercel.app/)
 
 ---
@@ -67,7 +68,7 @@ My focus is on translating **technical security signals** (logs, network traffic
 Log monitoring • Incident analysis • Alert triage • Escalation workflows • Incident documentation • SIEM fundamentals
 
 **Tools**  
-Splunk • Wireshark • CyberChef • TryHackMe • Git / GitHub
+Microsoft Sentinel • Defender for Endpoint • Splunk • Wireshark • CyberChef • TryHackMe • Git / GitHub
 
 **GRC / Frameworks**  
 ISO/IEC 27001 • NIST CSF • Risk Registers • Control Mapping • SLA & Workflow Design
@@ -98,6 +99,7 @@ IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断
 - 🎓 **修了:** *Cybersecurity for Managers: A Playbook*（MIT Sloan School of Management）  
 - 🔭 **現在の注力分野:** SIEMログ分析、インシデントトリアージ、運用フロー設計、SAL1学習  
 - 🧭 **アプローチ:** 監視 → 調査 → エスカレーション → 記録 → 改善  
+- 🛠 **実務環境経験:** Microsoft Sentinel、Defender for Endpoint、Tenable、Azure VM 環境  
 - 📝 **ブログ:** プロジェクト解説・学習記録（[Happy Bytes](https://happy-bytes.vercel.app/)）
 
 ---
@@ -143,7 +145,7 @@ IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断
 ログ監視、インシデント分析、アラート対応、エスカレーション設計、レポート作成、SIEM基礎
 
 **ツール**  
-Splunk、Wireshark、CyberChef、TryHackMe、Git／GitHub
+Microsoft Sentinel、Defender for Endpoint、Splunk、Wireshark、CyberChef、TryHackMe、Git／GitHub
 
 **GRC／フレームワーク**  
 ISO/IEC 27001、NIST CSF、リスクレジスター、統制整理、SLA設計
