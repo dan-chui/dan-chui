@@ -14,6 +14,12 @@ Security Monitoring | Incident Analysis | IT Operations | Risk & Compliance
 
 ---
 
+Security & IT Operations Analyst | Security+ · ISC² CC
+Focus: Information Security · GRC · Technology Risk · SOC Support
+SIEM Log Analysis · Incident Escalation · ISO 27001 Risk Registers
+
+---
+
 ## About Me  
 I work at the intersection of **IT operations, security monitoring, and governance (GRC)**, with hands-on experience in **log analysis, incident investigation, escalation workflows, and risk management**.
 
@@ -38,16 +44,7 @@ My focus is on translating **technical security signals** (logs, network traffic
 
 ➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report
 
----
-
-### 🚨 Incident Escalation Playbook (IT / Security Operations)
-**Focus:** Incident triage, escalation workflows, and operational readiness  
-- Designed a practical **SOC Tier-1 escalation workflow** for alert validation and severity classification  
-- Defined **SLA-based escalation paths** and communication matrices  
-- Emphasized documentation, evidence preservation, and structured handover  
-- Demonstrates operational maturity, decision logic, and cross-team coordination  
-
-➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
+Relevant to: SOC Analyst · Security Operations Support · Information Security Analyst
 
 ---
 
@@ -60,6 +57,21 @@ My focus is on translating **technical security signals** (logs, network traffic
 
 ➡️ https://github.com/dan-chui/Risk-Register
 
+Relevant to: GRC · Technology Risk · Internal IT Security
+
+---
+
+### 🚨 Incident Escalation Playbook (IT / Security Operations)
+**Focus:** Incident triage, escalation workflows, and operational readiness  
+- Designed a practical **SOC Tier-1 escalation workflow** for alert validation and severity classification  
+- Defined **SLA-based escalation paths** and communication matrices  
+- Emphasized documentation, evidence preservation, and structured handover  
+- Demonstrates operational maturity, decision logic, and cross-team coordination  
+
+➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
+
+Relevant to: SOC Analyst · Security Operations Support · Information Security Analyst
+
 ---
 
 ## 🧰 Skills & Tools
@@ -68,7 +80,7 @@ My focus is on translating **technical security signals** (logs, network traffic
 Log monitoring • Incident analysis • Alert triage • Escalation workflows • Incident documentation • SIEM fundamentals
 
 **Tools**  
-Microsoft Sentinel • Defender for Endpoint • Splunk • Wireshark • CyberChef • TryHackMe • Git / GitHub
+Microsoft Sentinel • Azure • Defender for Endpoint • Splunk • Wireshark • CyberChef • TryHackMe • Git / GitHub
 
 **GRC / Frameworks**  
 ISO/IEC 27001 • NIST CSF • Risk Registers • Control Mapping • SLA & Workflow Design
@@ -90,6 +102,14 @@ Python for automation, parsing, and reporting
 ---
 
 # 日本語版 README
+
+---
+
+Security & ITオペレーションアナリスト | Security+ ・ ISC² CC  
+専門分野：情報セキュリティ・GRC・テクノロジーリスク・SOCサポート  
+SIEMログ分析・インシデント対応・ISO27001リスクレジスター
+
+---
 
 ## 自己紹介  
 IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断し、**ログ分析・インシデント調査・エスカレーション設計・リスク管理**を中心に実務的なスキルを積み上げています。
@@ -115,16 +135,7 @@ IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断
 
 ➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report
 
----
-
-### 🚨 インシデント・エスカレーション・プレイブック（IT／セキュリティ運用）
-**内容:** インシデント対応フロー、エスカレーション設計、運用準備  
-- SOC Tier-1 を想定した **エスカレーション判断フロー** を設計  
-- **SLAベースの連絡・通知マトリクス** を定義  
-- 証跡保全、文書化、引き継ぎ手順を整理  
-- 運用判断力、チーム連携、実務的思考を示す成果物  
-
-➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
+関連職種：SOCアナリスト／セキュリティオペレーションサポート／情報セキュリティアナリスト
 
 ---
 
@@ -137,6 +148,24 @@ IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断
 
 ➡️ https://github.com/dan-chui/Risk-Register
 
+ISO27001基礎知識の自主学習およびリスクレジスター作成プロジェクト
+
+関連職種：GRC／テクノロジーリスク／社内情報セキュリティ
+
+---
+
+
+### 🚨 インシデント・エスカレーション・プレイブック（IT／セキュリティ運用）
+**内容:** インシデント対応フロー、エスカレーション設計、運用準備  
+- SOC Tier-1 を想定した **エスカレーション判断フロー** を設計  
+- **SLAベースの連絡・通知マトリクス** を定義  
+- 証跡保全、文書化、引き継ぎ手順を整理  
+- 運用判断力、チーム連携、実務的思考を示す成果物  
+
+➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
+
+関連職種：セキュリティオペレーション／インシデント対応／内部統制サポート
+
 ---
 
 ## 🧰 スキル・ツール
@@ -145,7 +174,7 @@ IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断
 ログ監視、インシデント分析、アラート対応、エスカレーション設計、レポート作成、SIEM基礎
 
 **ツール**  
-Microsoft Sentinel、Defender for Endpoint、Splunk、Wireshark、CyberChef、TryHackMe、Git／GitHub
+Microsoft Sentinel、Azure、Defender for Endpoint、Splunk、Wireshark、CyberChef、TryHackMe、Git／GitHub
 
 **GRC／フレームワーク**  
 ISO/IEC 27001、NIST CSF、リスクレジスター、統制整理、SLA設計
