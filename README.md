@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋  
-**IT Operations & Information Security Analyst** • Tokyo, Japan  
-Security Monitoring | Incident Analysis | IT Operations | Risk & Compliance
+**Technology Risk & Compliance Professional** • Tokyo, Japan  
+Financial Risk Governance | IT Risk | Security Governance | GRC
 
 <a href="https://www.linkedin.com/in/danchui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
@@ -14,90 +14,82 @@ Security Monitoring | Incident Analysis | IT Operations | Risk & Compliance
 
 ---
 
-Security & IT Operations Analyst | Security+ · ISC² CC
-Focus: Information Security · GRC · Technology Risk · SOC Support
-SIEM Log Analysis · Incident Escalation · ISO 27001 Risk Registers
+Former Investment Bank Director with 15+ years of experience in financial risk governance, regulatory examination support, and internal control environments.  
+
+I now focus on the intersection of **technology risk, security governance, and operational risk management**, translating control frameworks into structured processes, documentation standards, and escalation-ready reporting.
+
+Security+ · ISC² Certified in Cybersecurity (CC)  
+ISO/IEC 27001 Risk Assessment & Control Mapping  
+MS in Global Finance  
 
 ---
 
-## About Me  
-I work at the intersection of **IT operations, security monitoring, and governance (GRC)**, with hands-on experience in **log analysis, incident investigation, escalation workflows, and risk management**.
+## About Me
 
-My focus is on translating **technical security signals** (logs, network traffic, alerts) into **clear operational and risk-aware outcomes** that support both technical teams and business stakeholders. I emphasize structured investigation, documentation discipline, and escalation-ready reporting.
+My work bridges **financial risk, regulatory compliance, and technology governance**.
 
-- 🎓 **Completed:** *Cybersecurity for Managers: A Playbook* – MIT Sloan School of Management  
-- 🔭 **Current Focus:** SIEM log analysis, incident triage, operational workflows, SAL1 preparation  
-- 🧭 **Approach:** Monitor → Investigate → Escalate → Document → Improve  
-- 🛠 **Enterprise Exposure:** Microsoft Sentinel, Defender for Endpoint, Tenable, Azure VM environments  
-- 📝 **Writing:** Project walkthroughs and reflections on [**Happy Bytes**](https://happy-bytes.vercel.app/)
+I emphasize:
+- Structured risk identification and control mapping  
+- Audit-ready documentation and reporting discipline  
+- Translating technical findings into business-aligned risk decisions  
+- Designing escalation workflows aligned with governance frameworks  
 
----
+Having worked across the United States, Hong Kong, and Japan, I bring an international perspective to regulated environments and cross-functional risk oversight.
 
-## 📂 Portfolio Projects
-
-### 🔍 SIEM Log Analysis Report (Security Operations)
-**Focus:** Log monitoring, incident investigation, and reporting  
-- Analyzed realistic attack scenarios including vulnerability exploitation and HTTP-based data exfiltration  
-- Performed packet-level inspection using **Wireshark** and decoding with **CyberChef**  
-- Correlated timelines and alerts using **Splunk** to support findings  
-- Produced a structured incident report covering observations, impact, and remediation guidance  
-
-➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report
-
-Relevant to: SOC Analyst · Security Operations Support · Information Security Analyst
+Tokyo-based | Native English | Business-level Japanese (JLPT N2) | Cantonese
 
 ---
 
-### 🛡 IT / Security Risk Register (GRC)
-**Focus:** Risk identification, assessment, and control mapping  
-- Built an **ISO/IEC 27001-aligned Risk Register** for a small service scenario  
-- Applied **Likelihood × Impact scoring** with residual risk evaluation  
-- Mapped risks to **Annex A controls** across organizational and technical domains  
-- Demonstrates governance awareness, prioritization, and audit-ready documentation  
+## 📂 Selected Governance & Security Projects
 
-➡️ https://github.com/dan-chui/Risk-Register
+### 🛡 ISO/IEC 27001 Risk Register (GRC)
+**Focus:** Risk identification, scoring, and control mapping  
+- Developed ISO 27001-aligned risk register with structured Likelihood × Impact methodology  
+- Mapped risks to Annex A controls across organizational and technical domains  
+- Demonstrates governance discipline and audit-aware documentation  
 
-Relevant to: GRC · Technology Risk · Internal IT Security
-
----
-
-### 🚨 Incident Escalation Playbook (IT / Security Operations)
-**Focus:** Incident triage, escalation workflows, and operational readiness  
-- Designed a practical **SOC Tier-1 escalation workflow** for alert validation and severity classification  
-- Defined **SLA-based escalation paths** and communication matrices  
-- Emphasized documentation, evidence preservation, and structured handover  
-- Demonstrates operational maturity, decision logic, and cross-team coordination  
-
-➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
-
-Relevant to: SOC Analyst · Security Operations Support · Information Security Analyst
+➡️ https://github.com/dan-chui/Risk-Register  
 
 ---
 
-## 🧰 Skills & Tools
+### 🚨 Incident Escalation Playbook (Operational Governance)
+**Focus:** Escalation design & structured decision-making  
+- Designed SOC Tier-1 workflow aligned with severity classification and SLA thresholds  
+- Built communication matrix and documentation standards  
+- Emphasized governance, accountability, and cross-team coordination  
 
-**IT & Security Operations**  
-Log monitoring • Incident analysis • Alert triage • Escalation workflows • Incident documentation • SIEM fundamentals
+➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report  
 
-**Tools**  
-Microsoft Sentinel • Azure • Defender for Endpoint • Splunk • Wireshark • CyberChef • TryHackMe • Git / GitHub
+---
 
-**GRC / Frameworks**  
-ISO/IEC 27001 • NIST CSF • Risk Registers • Control Mapping • SLA & Workflow Design
+### 🔍 SIEM Log Analysis Report (Security Monitoring)
+**Focus:** Structured investigation & reporting  
+- Analyzed simulated exploitation and data exfiltration scenarios  
+- Correlated alerts and traffic to produce structured incident reports  
+- Demonstrates disciplined investigation and risk communication  
 
-**Networking Fundamentals**  
-TCP/IP • HTTP(S) • DNS • Packet inspection basics
+➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report  
 
-**Scripting (Learning)**  
-Python for automation, parsing, and reporting
+---
+
+## 🧰 Focus Areas
+
+**Technology Risk & Governance**  
+ISO/IEC 27001 · NIST CSF · Internal Controls · Risk Registers · Policy & Workflow Design  
+
+**Security Operations (Support-Level Exposure)**  
+Security Monitoring · Incident Investigation · Escalation Design  
+
+**Enterprise Tools Exposure**  
+Microsoft Sentinel · Defender for Endpoint · Azure · Tenable · Splunk · Wireshark  
 
 ---
 
 ## 📬 Contact  
-- **LinkedIn:** https://www.linkedin.com/in/danchui/  
-- **Blog:** https://happy-bytes.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/danchui/  
+- Blog: https://happy-bytes.vercel.app/  
 
-> Open to **IT Operations**, **Security Operations Support**, **IT Analyst**, or **Information Security / GRC** roles — Tokyo or Remote.
+> Open to roles in Technology Risk, IT Compliance, Governance (GRC), Financial Services Risk & Controls, and Security Governance — Tokyo or hybrid/remote.
 
 ---
 
@@ -105,90 +97,49 @@ Python for automation, parsing, and reporting
 
 ---
 
-Security & ITオペレーションアナリスト | Security+ ・ ISC² CC  
-専門分野：情報セキュリティ・GRC・テクノロジーリスク・SOCサポート  
-SIEMログ分析・インシデント対応・ISO27001リスクレジスター
+# Danです 👋  
+**テクノロジーリスク・コンプライアンス専門職**｜東京  
+
+金融機関において15年以上にわたり信用リスク管理・規制対応・内部統制に従事。  
+現在はテクノロジーリスクおよびセキュリティガバナンス領域へ専門性を拡張しています。
+
+Security+ ・ ISC² CC  
+ISO/IEC 27001 リスク評価・統制整理  
+グローバルファイナンス修士  
 
 ---
 
-## 自己紹介  
-IT運用、セキュリティ運用、ガバナンス（GRC）の領域を横断し、**ログ分析・インシデント調査・エスカレーション設計・リスク管理**を中心に実務的なスキルを積み上げています。
+## 自己紹介
 
-ログやネットワークトラフィック、アラートといった**技術的なセキュリティ事象を、業務・運用・リスクの観点で整理し、分かりやすく文書化・共有すること**を強みとしています。
+金融リスク・規制対応・ITガバナンスを横断し、  
+リスク評価・統制設計・文書整備・エスカレーション設計を中心に取り組んでいます。
 
-- 🎓 **修了:** *Cybersecurity for Managers: A Playbook*（MIT Sloan School of Management）  
-- 🔭 **現在の注力分野:** SIEMログ分析、インシデントトリアージ、運用フロー設計、SAL1学習  
-- 🧭 **アプローチ:** 監視 → 調査 → エスカレーション → 記録 → 改善  
-- 🛠 **実務環境経験:** Microsoft Sentinel、Defender for Endpoint、Tenable、Azure VM 環境  
-- 📝 **ブログ:** プロジェクト解説・学習記録（[Happy Bytes](https://happy-bytes.vercel.app/)）
+強み：
+- リスク特定と統制マッピング  
+- 監査対応を意識したドキュメント整備  
+- 技術的事象をビジネスリスクへ翻訳  
+- ガバナンス視点での運用設計  
 
----
-
-## 📂 ポートフォリオ
-
-### 🔍 SIEMログ分析レポート（セキュリティ運用）
-**内容:** ログ監視、インシデント調査、レポーティング  
-- 脆弱性悪用やHTTP経由のデータ持ち出しを想定した攻撃シナリオを分析  
-- **Wireshark** によるパケット解析、**CyberChef** によるデコード  
-- **Splunk** を用いたイベント相関とタイムライン整理  
-- 調査結果・影響・対策をまとめたインシデントレポートを作成  
-
-➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report
-
-関連職種：SOCアナリスト／セキュリティオペレーションサポート／情報セキュリティアナリスト
+米国・香港・日本での業務経験。  
+英語ネイティブ／日本語ビジネスレベル（JLPT N2）
 
 ---
 
-### 🛡 IT／セキュリティ リスクレジスター（GRC）
-**内容:** リスク特定、評価、統制整理  
-- 小規模サービスを想定した **ISO/IEC 27001 準拠リスクレジスター** を作成  
-- 発生可能性 × 影響度による評価および残留リスク検討  
-- **附属書A（Annex A）** 統制へのマッピング  
-- ガバナンス意識および監査対応力を示す文書化  
+## 主なプロジェクト
 
-➡️ https://github.com/dan-chui/Risk-Register
+### 🛡 ISO/IEC 27001 リスクレジスター
+- Annex A統制へのマッピング  
+- 発生可能性 × 影響度評価  
+- ガバナンス視点での文書化  
 
-ISO27001基礎知識の自主学習およびリスクレジスター作成プロジェクト
+### 🚨 インシデント・エスカレーション設計
+- SLA基準による判断フロー  
+- 証跡保全・報告体制設計  
 
-関連職種：GRC／テクノロジーリスク／社内情報セキュリティ
-
----
-
-
-### 🚨 インシデント・エスカレーション・プレイブック（IT／セキュリティ運用）
-**内容:** インシデント対応フロー、エスカレーション設計、運用準備  
-- SOC Tier-1 を想定した **エスカレーション判断フロー** を設計  
-- **SLAベースの連絡・通知マトリクス** を定義  
-- 証跡保全、文書化、引き継ぎ手順を整理  
-- 運用判断力、チーム連携、実務的思考を示す成果物  
-
-➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
-
-関連職種：セキュリティオペレーション／インシデント対応／内部統制サポート
+### 🔍 SIEMログ分析レポート
+- 攻撃シナリオ分析  
+- 相関分析・調査報告書作成  
 
 ---
 
-## 🧰 スキル・ツール
-
-**IT／セキュリティ運用**  
-ログ監視、インシデント分析、アラート対応、エスカレーション設計、レポート作成、SIEM基礎
-
-**ツール**  
-Microsoft Sentinel、Azure、Defender for Endpoint、Splunk、Wireshark、CyberChef、TryHackMe、Git／GitHub
-
-**GRC／フレームワーク**  
-ISO/IEC 27001、NIST CSF、リスクレジスター、統制整理、SLA設計
-
-**ネットワーク基礎**  
-TCP/IP、HTTP(S)、DNS、パケット解析基礎
-
-**スクリプト（学習中）**  
-Python（自動化、ログ解析、レポート生成）
-
----
-
-## 📬 連絡先  
-- **LinkedIn:** https://www.linkedin.com/in/danchui/  
-- **ブログ:** https://happy-bytes.vercel.app/  
-
-> **IT運用、ITアナリスト、セキュリティ運用支援、情報セキュリティ／GRC** 分野のポジション（東京・リモート可）を検討しています。
+> テクノロジーリスク、ITコンプライアンス、GRC、金融機関向け統制・リスク管理ポジションを志向しています。
