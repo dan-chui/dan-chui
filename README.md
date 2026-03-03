@@ -14,9 +14,9 @@ Financial Risk Governance | IT Risk | Security Governance | GRC
 
 ---
 
-Former Investment Bank Director with 15+ years of experience in financial risk governance, regulatory examination support, and internal control environments.  
+Former Investment Bank Director with 15+ years of experience in financial risk governance, regulatory examination support, and internal control environments.
 
-I now focus on the intersection of **technology risk, security governance, and operational risk management**, translating control frameworks into structured processes, documentation standards, and escalation-ready reporting.
+I focus on the intersection of **technology risk, security governance, and operational risk management**, translating control frameworks into structured processes, documentation standards, remediation workflows, and escalation-ready reporting.
 
 Security+ · ISC² Certified in Cybersecurity (CC)  
 ISO/IEC 27001 Risk Assessment & Control Mapping  
@@ -30,6 +30,7 @@ My work bridges **financial risk, regulatory compliance, and technology governan
 
 I emphasize:
 - Structured risk identification and control mapping  
+- Vulnerability lifecycle management and remediation tracking  
 - Audit-ready documentation and reporting discipline  
 - Translating technical findings into business-aligned risk decisions  
 - Designing escalation workflows aligned with governance frameworks  
@@ -41,6 +42,17 @@ Tokyo-based | Native English | Business-level Japanese (JLPT N2) | Cantonese
 ---
 
 ## 📂 Selected Governance & Security Projects
+
+### 🛡 Vulnerability Management Program (Technology Risk)
+**Focus:** Vulnerability lifecycle governance & remediation tracking  
+- Built structured vulnerability management workflow covering identification, prioritization, remediation, and reporting  
+- Applied risk-based severity scoring aligned with enterprise risk tolerance  
+- Designed tracking methodology for remediation validation and accountability  
+- Demonstrates operational risk governance and control lifecycle oversight  
+
+➡️ https://github.com/dan-chui/Vulnerability-Management-Program  
+
+---
 
 ### 🛡 ISO/IEC 27001 Risk Register (GRC)
 **Focus:** Risk identification, scoring, and control mapping  
@@ -75,7 +87,7 @@ Tokyo-based | Native English | Business-level Japanese (JLPT N2) | Cantonese
 ## 🧰 Focus Areas
 
 **Technology Risk & Governance**  
-ISO/IEC 27001 · NIST CSF · Internal Controls · Risk Registers · Policy & Workflow Design  
+ISO/IEC 27001 · NIST CSF · Internal Controls · Vulnerability Management · Risk Registers · Policy & Workflow Design  
 
 **Security Operations (Support-Level Exposure)**  
 Security Monitoring · Incident Investigation · Escalation Design  
@@ -112,20 +124,23 @@ ISO/IEC 27001 リスク評価・統制整理
 ## 自己紹介
 
 金融リスク・規制対応・ITガバナンスを横断し、  
-リスク評価・統制設計・文書整備・エスカレーション設計を中心に取り組んでいます。
+リスク評価・統制設計・脆弱性管理プロセス設計・文書整備を中心に取り組んでいます。
 
 強み：
 - リスク特定と統制マッピング  
+- 脆弱性管理ライフサイクル設計  
 - 監査対応を意識したドキュメント整備  
 - 技術的事象をビジネスリスクへ翻訳  
 - ガバナンス視点での運用設計  
 
-米国・香港・日本での業務経験。  
-英語ネイティブ／日本語ビジネスレベル（JLPT N2）
-
 ---
 
 ## 主なプロジェクト
+
+### 🛡 脆弱性管理プログラム
+- 脆弱性特定から修正・再検証までの管理フロー設計  
+- リスクベースでの優先順位付け  
+- 是正対応の追跡管理および報告設計  
 
 ### 🛡 ISO/IEC 27001 リスクレジスター
 - Annex A統制へのマッピング  
@@ -135,10 +150,6 @@ ISO/IEC 27001 リスク評価・統制整理
 ### 🚨 インシデント・エスカレーション設計
 - SLA基準による判断フロー  
 - 証跡保全・報告体制設計  
-
-### 🔍 SIEMログ分析レポート
-- 攻撃シナリオ分析  
-- 相関分析・調査報告書作成  
 
 ---
 
