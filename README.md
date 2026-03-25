@@ -41,7 +41,25 @@ Tokyo-based | Native English | Business-level Japanese (JLPT N2) | Cantonese
 
 ---
 
+## 🆕 Latest Work
+
+🔎 Threat Hunting Investigation: Tor Browser Activity  
+➡️ https://github.com/dan-chui/Threat-Hunt-Tor
+
+---
+
 ## 📂 Selected Governance & Security Projects
+
+### 🔎 Threat Hunting Investigation: Tor Browser Activity
+**Focus:** Endpoint telemetry analysis & threat hunting
+
+- Conducted proactive threat hunt using Microsoft Defender XDR Advanced Hunting  
+- Investigated Tor Browser installation, execution, and network activity  
+- Reconstructed activity timeline using DeviceFileEvents, DeviceProcessEvents, and DeviceNetworkEvents  
+- Identified Tor relay connection over port 9001 and related user artifacts  
+- Mapped findings to MITRE ATT&CK techniques  
+
+➡️ https://github.com/dan-chui/Threat-Hunt-Tor
 
 ### 🛡 Vulnerability Management Program (Technology Risk)
 **Focus:** Vulnerability lifecycle governance & remediation tracking  
@@ -90,10 +108,13 @@ Tokyo-based | Native English | Business-level Japanese (JLPT N2) | Cantonese
 ISO/IEC 27001 · NIST CSF · Internal Controls · Vulnerability Management · Risk Registers · Policy & Workflow Design  
 
 **Security Operations (Support-Level Exposure)**  
-Security Monitoring · Incident Investigation · Escalation Design  
+Security Monitoring · Incident Investigation · Escalation Design
+
+**Threat Hunting & Detection**  
+KQL · Microsoft Defender Advanced Hunting · Endpoint Telemetry Analysis · MITRE ATT&CK Mapping
 
 **Enterprise Tools Exposure**  
-Microsoft Sentinel · Defender for Endpoint · Azure · Tenable · Splunk · Wireshark  
+Microsoft Defender XDR · Microsoft Sentinel · Defender for Endpoint · Azure · Tenable · Splunk · Wireshark
 
 ---
 
