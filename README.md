@@ -52,7 +52,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 - Identified Tor relay communication over port 9001  
 - Mapped findings to MITRE ATT&CK techniques  
 
-➡️ https://github.com/dan-chui/Threat-Hunt-Tor  
+➡️ https://github.com/dan-chui/Threat-Hunt-Tor-Browser-Investigation  
 
 ---
 
@@ -63,7 +63,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 - Correlated logs and alerts to produce structured incident reports  
 - Demonstrates investigation workflow and escalation reasoning  
 
-➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report  
+➡️ https://github.com/dan-chui/SIEM-Incident-Analysis-Report  
 
 ---
 
