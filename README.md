@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋  
-**Technology Risk & Compliance Professional** • Tokyo, Japan  
-Financial Risk Governance | IT Risk | Security Governance | GRC
+**Technology Risk & Cybersecurity Analyst** • Tokyo, Japan  
+GRC | IT Risk | Incident Response | Security Governance  
 
 <a href="https://www.linkedin.com/in/danchui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
@@ -16,164 +16,180 @@ Financial Risk Governance | IT Risk | Security Governance | GRC
 
 Former Investment Bank Director with 15+ years of experience in financial risk governance, regulatory examination support, and internal control environments.
 
-I focus on the intersection of **technology risk, security governance, and operational risk management**, translating control frameworks into structured processes, documentation standards, remediation workflows, and escalation-ready reporting.
-
-Security+ · ISC² Certified in Cybersecurity (CC)  
-ISO/IEC 27001 Risk Assessment & Control Mapping  
-MS in Global Finance  
+I focus on the intersection of **technology risk, cybersecurity operations, and governance**, translating technical findings into structured risk assessments, control frameworks, and escalation-ready reporting.
 
 ---
 
-## About Me
+## 🎯 Current Focus
 
-My work bridges **financial risk, regulatory compliance, and technology governance**.
-
-I emphasize:
-- Structured risk identification and control mapping  
-- Vulnerability lifecycle management and remediation tracking  
-- Audit-ready documentation and reporting discipline  
-- Translating technical findings into business-aligned risk decisions  
-- Designing escalation workflows aligned with governance frameworks  
-
-Having worked across the United States, Hong Kong, and Japan, I bring an international perspective to regulated environments and cross-functional risk oversight.
-
-Tokyo-based | Native English | Business-level Japanese (JLPT N2) | Cantonese
+- Technology Risk & IT Governance (GRC)  
+- Incident Response & CSIRT support  
+- Threat Hunting & SIEM Investigation  
+- Control Design & Risk-Based Remediation  
 
 ---
 
-## 🆕 Latest Work
+## 🧪 Practical Experience
 
-🔎 Threat Hunting Investigation: Tor Browser Activity  
-➡️ https://github.com/dan-chui/Threat-Hunt-Tor
+**Cybersecurity Analyst (Intern)**  
+Cyber Range (LOG(N) Pacific) | Feb 2026 – Present  
+
+- Conducted SIEM-based investigations using Splunk and Microsoft Defender  
+- Performed threat hunting aligned with MITRE ATT&CK techniques  
+- Analyzed endpoint telemetry across process, file, and network events  
+- Developed incident escalation workflows and investigation reports  
+- Supported vulnerability management and system hardening exercises  
 
 ---
 
-## 📂 Selected Governance & Security Projects
+## 📂 Selected Security & Governance Projects
 
-### 🔎 Threat Hunting Investigation: Tor Browser Activity
-**Focus:** Endpoint telemetry analysis & threat hunting
+### 🔎 Threat Hunting Investigation: Tor Browser Activity  
+**Focus:** Endpoint telemetry analysis & threat hunting  
 
-- Conducted proactive threat hunt using Microsoft Defender XDR Advanced Hunting  
 - Investigated Tor Browser installation, execution, and network activity  
-- Reconstructed activity timeline using DeviceFileEvents, DeviceProcessEvents, and DeviceNetworkEvents  
-- Identified Tor relay connection over port 9001 and related user artifacts  
+- Reconstructed timeline using Microsoft Defender Advanced Hunting (KQL)  
+- Identified Tor relay communication over port 9001  
 - Mapped findings to MITRE ATT&CK techniques  
 
-➡️ https://github.com/dan-chui/Threat-Hunt-Tor
-
-### 🛡 Vulnerability Management Program (Technology Risk)
-**Focus:** Vulnerability lifecycle governance & remediation tracking  
-- Built structured vulnerability management workflow covering identification, prioritization, remediation, and reporting  
-- Applied risk-based severity scoring aligned with enterprise risk tolerance  
-- Designed tracking methodology for remediation validation and accountability  
-- Demonstrates operational risk governance and control lifecycle oversight  
-
-➡️ https://github.com/dan-chui/Vulnerability-Management-Program  
+➡️ https://github.com/dan-chui/Threat-Hunt-Tor  
 
 ---
 
-### 🛡 ISO/IEC 27001 Risk Register (GRC)
-**Focus:** Risk identification, scoring, and control mapping  
-- Developed ISO 27001-aligned risk register with structured Likelihood × Impact methodology  
-- Mapped risks to Annex A controls across organizational and technical domains  
-- Demonstrates governance discipline and audit-aware documentation  
+### 🔍 SIEM Log Analysis Report  
+**Focus:** Security monitoring & incident investigation  
 
-➡️ https://github.com/dan-chui/Risk-Register  
-
----
-
-### 🚨 Incident Escalation Playbook (Operational Governance)
-**Focus:** Escalation design & structured decision-making  
-- Designed SOC Tier-1 workflow aligned with severity classification and SLA thresholds  
-- Built communication matrix and documentation standards  
-- Emphasized governance, accountability, and cross-team coordination  
-
-➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report  
-
----
-
-### 🔍 SIEM Log Analysis Report (Security Monitoring)
-**Focus:** Structured investigation & reporting  
 - Analyzed simulated exploitation and data exfiltration scenarios  
-- Correlated alerts and traffic to produce structured incident reports  
-- Demonstrates disciplined investigation and risk communication  
+- Correlated logs and alerts to produce structured incident reports  
+- Demonstrates investigation workflow and escalation reasoning  
 
 ➡️ https://github.com/dan-chui/SIEM-Log-Analysis-Report  
 
 ---
 
-## 🧰 Focus Areas
+### 🚨 Incident Escalation Playbook  
+**Focus:** Incident response governance & workflow design  
+
+- Designed SOC Tier-1 escalation logic aligned with severity and SLA thresholds  
+- Built communication matrix and documentation standards  
+- Emphasized cross-team coordination and governance  
+
+➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report  
+
+---
+
+### 🛡 Vulnerability Management Program  
+**Focus:** Technology risk & remediation lifecycle  
+
+- Designed risk-based vulnerability prioritization and tracking methodology  
+- Defined remediation workflows and accountability structure  
+- Demonstrates operational risk governance  
+
+➡️ https://github.com/dan-chui/Vulnerability-Management-Program  
+
+---
+
+### 🛡 ISO/IEC 27001 Risk Register  
+**Focus:** Risk identification & control mapping  
+
+- Developed structured risk register using Likelihood × Impact scoring  
+- Mapped risks to Annex A controls  
+- Demonstrates audit-ready governance documentation  
+
+➡️ https://github.com/dan-chui/Risk-Register  
+
+---
+
+## 🧰 Skills & Tools
+
+**Security Operations & Investigation**  
+SIEM Analysis · Threat Hunting · Incident Response · MITRE ATT&CK  
 
 **Technology Risk & Governance**  
-ISO/IEC 27001 · NIST CSF · Internal Controls · Vulnerability Management · Risk Registers · Policy & Workflow Design  
+ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment · Vulnerability Management  
 
-**Security Operations (Support-Level Exposure)**  
-Security Monitoring · Incident Investigation · Escalation Design
-
-**Threat Hunting & Detection**  
-KQL · Microsoft Defender Advanced Hunting · Endpoint Telemetry Analysis · MITRE ATT&CK Mapping
-
-**Enterprise Tools Exposure**  
-Microsoft Defender XDR · Microsoft Sentinel · Defender for Endpoint · Azure · Tenable · Splunk · Wireshark
+**Tools & Platforms**  
+Microsoft Defender XDR · Microsoft Sentinel · Splunk · Tenable · Wireshark · Azure  
 
 ---
 
 ## 📬 Contact  
+
 - LinkedIn: https://www.linkedin.com/in/danchui/  
 - Blog: https://happy-bytes.vercel.app/  
 
-> Open to roles in Technology Risk, IT Compliance, Governance (GRC), Financial Services Risk & Controls, and Security Governance — Tokyo or hybrid/remote.
+---
+
+> Open to roles in Technology Risk, GRC, IT Risk, CSIRT, and Security Governance (Tokyo / Hybrid / Remote)
 
 ---
 
-# 日本語版 README
+# 🇯🇵 日本語版 README
 
 ---
 
 # Danです 👋  
-**テクノロジーリスク・コンプライアンス専門職**｜東京  
+**テクノロジーリスク・サイバーセキュリティアナリスト**｜東京  
 
-金融機関において15年以上にわたり信用リスク管理・規制対応・内部統制に従事。  
-現在はテクノロジーリスクおよびセキュリティガバナンス領域へ専門性を拡張しています。
-
-Security+ ・ ISC² CC  
-ISO/IEC 27001 リスク評価・統制整理  
-グローバルファイナンス修士  
+金融機関にて15年以上、信用リスク管理、内部統制、規制対応に従事。  
+現在はテクノロジーリスクおよびサイバーセキュリティ分野へ専門性を拡張しています。
 
 ---
 
-## 自己紹介
+## 概要
 
-金融リスク・規制対応・ITガバナンスを横断し、  
-リスク評価・統制設計・脆弱性管理プロセス設計・文書整備を中心に取り組んでいます。
+金融リスクとITガバナンスのバックグラウンドに加え、  
+Cyber Rangeにて実践的なSOC・インシデント対応トレーニングを実施。
 
-強み：
-- リスク特定と統制マッピング  
-- 脆弱性管理ライフサイクル設計  
-- 監査対応を意識したドキュメント整備  
-- 技術的事象をビジネスリスクへ翻訳  
-- ガバナンス視点での運用設計  
+技術的な調査結果を、リスク評価・統制・ガバナンス文書へと落とし込むことを強みとしています。
+
+---
+
+## 実務トレーニング
+
+**サイバーセキュリティアナリスト（インターン）**  
+Cyber Range（LOG(N) Pacific）  
+
+- SIEM（Splunk / Microsoft Defender）を用いた調査  
+- MITRE ATT&CKに基づく脅威ハンティング  
+- インシデント対応・エスカレーション設計  
+- エンドポイントログ分析（プロセス・ファイル・ネットワーク）  
 
 ---
 
 ## 主なプロジェクト
 
+### 🔎 脅威ハンティング（Tor Browser）
+- Tor通信の分析および挙動調査  
+- タイムライン再構築およびATT&CKマッピング  
+
+### 🔍 SIEMログ分析レポート
+- 攻撃シナリオの分析およびインシデントレポート作成  
+
+### 🚨 インシデント対応プレイブック
+- SLAベースのエスカレーション設計  
+- 対応フローおよび文書整備  
+
 ### 🛡 脆弱性管理プログラム
-- 脆弱性特定から修正・再検証までの管理フロー設計  
-- リスクベースでの優先順位付け  
-- 是正対応の追跡管理および報告設計  
+- リスクベースの優先順位付け  
+- 是正管理および追跡プロセス設計  
 
-### 🛡 ISO/IEC 27001 リスクレジスター
-- Annex A統制へのマッピング  
-- 発生可能性 × 影響度評価  
-- ガバナンス視点での文書化  
-
-### 🚨 インシデント・エスカレーション設計
-- SLA基準による判断フロー  
-- 証跡保全・報告体制設計  
+### 🛡 ISO27001 リスクレジスター
+- リスク評価および統制マッピング  
 
 ---
 
-> テクノロジーリスク、ITコンプライアンス、GRC、金融機関向け統制・リスク管理ポジションを志向しています。
+## スキル
+
+**セキュリティ運用**  
+SIEM分析 · 脅威ハンティング · インシデント対応  
+
+**テクノロジーリスク**  
+ISO27001 · NIST CSF · IT統制 · リスク評価  
+
+**ツール**  
+Microsoft Defender · Sentinel · Splunk · Tenable · Wireshark  
 
 ---
+
+> テクノロジーリスク、GRC、ITリスク、CSIRT、セキュリティガバナンス関連ポジションを志向しています。
