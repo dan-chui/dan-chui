@@ -150,7 +150,7 @@ Cyber Rangeにて実践的なSOC・インシデント対応トレーニングを
 **サイバーセキュリティアナリスト（インターン）**  
 Cyber Range（LOG(N) Pacific）  
 
-- SIEM（Splunk / Microsoft Defender）を用いた調査  
+- SIEM（Microsoft Sentinel, Defender for Endpoint, Azure）を用いた調査  
 - MITRE ATT&CKに基づく脅威ハンティング  
 - インシデント対応・エスカレーション設計  
 - エンドポイントログ分析（プロセス・ファイル・ネットワーク）  
@@ -188,7 +188,7 @@ SIEM分析 · 脅威ハンティング · インシデント対応
 ISO27001 · NIST CSF · IT統制 · リスク評価  
 
 **ツール**  
-Microsoft Defender · Sentinel · Splunk · Tenable · Wireshark  
+Microsoft Defender for Endpoint · Sentinel · Splunk · Tenable · Wireshark  
 
 ---
 
