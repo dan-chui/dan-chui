@@ -109,7 +109,7 @@ SIEM Analysis · Threat Hunting · Incident Response · MITRE ATT&CK
 ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment · Vulnerability Management  
 
 **Tools & Platforms**  
-Microsoft Defender XDR · Microsoft Sentinel · Splunk · Tenable · Wireshark · Azure  
+Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure  
 
 ---
 
@@ -188,7 +188,7 @@ SIEM分析 · 脅威ハンティング · インシデント対応
 ISO27001 · NIST CSF · IT統制 · リスク評価  
 
 **ツール**  
-Microsoft Defender for Endpoint · Sentinel · Splunk · Tenable · Wireshark  
+Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure    
 
 ---
 
