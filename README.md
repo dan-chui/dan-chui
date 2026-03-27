@@ -38,7 +38,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 - Performed threat hunting aligned with MITRE ATT&CK techniques  
 - Analyzed endpoint telemetry across process, file, and network events  
 - Developed incident escalation workflows and investigation reports  
-- Supported vulnerability management and system hardening exercises  
+- Supported vulnerability management and system hardening exercises using Tenable Nessus 
 
 ---
 
