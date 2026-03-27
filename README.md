@@ -34,7 +34,7 @@ I focus on the intersection of **technology risk, cybersecurity operations, and 
 **Cybersecurity Analyst (Intern)**  
 Cyber Range (LOG(N) Pacific) | Feb 2026 – Present  
 
-- Conducted SIEM-based investigations using Splunk and Microsoft Defender  
+- Conducted SIEM-based investigations using Microsoft Sentinel, Defender for Endpoint, and Azure
 - Performed threat hunting aligned with MITRE ATT&CK techniques  
 - Analyzed endpoint telemetry across process, file, and network events  
 - Developed incident escalation workflows and investigation reports  
@@ -56,7 +56,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 
 ---
 
-### 🔍 SIEM Log Analysis Report  
+### 🔍 SIEM Incident Analysis Report  
 **Focus:** Security monitoring & incident investigation  
 
 - Analyzed simulated exploitation and data exfiltration scenarios  
