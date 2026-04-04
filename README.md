@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋  
-**Technology Risk & Cybersecurity Analyst** • Tokyo, Japan  
-GRC | IT Risk | Incident Response | Security Governance  
+**Cybersecurity & Technology Risk Analyst** • Tokyo, Japan  
+GRC | IT Risk | Incident Response | Security Operations  
 
 <a href="https://www.linkedin.com/in/danchui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
@@ -14,18 +14,18 @@ GRC | IT Risk | Incident Response | Security Governance
 
 ---
 
-Former Investment Bank Director with 15+ years of experience in financial risk governance, regulatory examination support, and internal control environments.
+I am a cybersecurity and technology risk analyst with a background in financial risk, currently building hands-on experience in **security operations, incident response, and governance**.
 
-I focus on the intersection of **technology risk, cybersecurity operations, and governance**, translating technical findings into structured risk assessments, control frameworks, and escalation-ready reporting.
+Through practical training and projects, I focus on investigating security events, supporting incident response workflows, and translating technical findings into structured risk and control improvements.
 
 ---
 
 ## 🎯 Current Focus
 
-- Technology Risk & IT Governance (GRC)  
 - Incident Response & CSIRT support  
-- Threat Hunting & SIEM Investigation  
-- Control Design & Risk-Based Remediation  
+- SIEM investigation & threat hunting  
+- Technology Risk & IT Governance (GRC)  
+- Control design and remediation tracking  
 
 ---
 
@@ -34,11 +34,11 @@ I focus on the intersection of **technology risk, cybersecurity operations, and 
 **Cybersecurity Analyst (Intern)**  
 Cyber Range (LOG(N) Pacific) | Feb 2026 – Present  
 
-- Conducted SIEM-based investigations using Microsoft Sentinel, Defender for Endpoint, and Azure
+- Conducted SIEM-based investigations using Microsoft Sentinel and Defender for Endpoint  
 - Performed threat hunting aligned with MITRE ATT&CK techniques  
 - Analyzed endpoint telemetry across process, file, and network events  
-- Developed incident escalation workflows and investigation reports  
-- Supported vulnerability management and system hardening exercises using Tenable Nessus 
+- Developed incident escalation workflows and structured investigation reports  
+- Supported vulnerability management and system hardening using Tenable Nessus  
 
 ---
 
@@ -48,7 +48,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 **Focus:** Endpoint telemetry analysis & threat hunting  
 
 - Investigated Tor Browser installation, execution, and network activity  
-- Reconstructed timeline using Microsoft Defender Advanced Hunting (KQL)  
+- Reconstructed activity timeline using Microsoft Defender Advanced Hunting (KQL)  
 - Identified Tor relay communication over port 9001  
 - Mapped findings to MITRE ATT&CK techniques  
 
@@ -59,8 +59,8 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 ### 🔍 SIEM Incident Analysis Report  
 **Focus:** Security monitoring & incident investigation  
 
-- Analyzed simulated exploitation and data exfiltration scenarios  
-- Correlated logs and alerts to produce structured incident reports  
+- Analyzed exploitation and data exfiltration scenarios  
+- Correlated alerts and logs to produce structured incident reports  
 - Demonstrates investigation workflow and escalation reasoning  
 
 ➡️ https://github.com/dan-chui/SIEM-Incident-Analysis-Report  
@@ -68,22 +68,22 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 ---
 
 ### 🚨 Incident Escalation Playbook  
-**Focus:** Incident response governance & workflow design  
+**Focus:** Incident response workflow & escalation  
 
-- Designed SOC Tier-1 escalation logic aligned with severity and SLA thresholds  
-- Built communication matrix and documentation standards  
-- Emphasized cross-team coordination and governance  
+- Designed SOC Tier-1 escalation logic based on severity and SLA thresholds  
+- Built communication and documentation standards  
+- Demonstrates structured incident handling and coordination  
 
 ➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report  
 
 ---
 
 ### 🛡 Vulnerability Management Program  
-**Focus:** Technology risk & remediation lifecycle  
+**Focus:** Risk-based remediation workflow  
 
-- Designed risk-based vulnerability prioritization and tracking methodology  
+- Designed vulnerability prioritization and tracking methodology  
 - Defined remediation workflows and accountability structure  
-- Demonstrates operational risk governance  
+- Demonstrates practical technology risk management  
 
 ➡️ https://github.com/dan-chui/Vulnerability-Management-Program  
 
@@ -92,9 +92,9 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 ### 🛡 ISO/IEC 27001 Risk Register  
 **Focus:** Risk identification & control mapping  
 
-- Developed structured risk register using Likelihood × Impact scoring  
+- Developed structured risk register using likelihood-impact scoring  
 - Mapped risks to Annex A controls  
-- Demonstrates audit-ready governance documentation  
+- Demonstrates governance and control awareness  
 
 ➡️ https://github.com/dan-chui/Risk-Register  
 
@@ -120,7 +120,7 @@ Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure
 
 ---
 
-> Open to roles in Technology Risk, GRC, IT Risk, CSIRT, and Security Governance (Tokyo / Hybrid / Remote)
+> Open to Analyst-level roles in Cybersecurity, IT Risk, GRC, and CSIRT (Tokyo / Hybrid / Remote)
 
 ---
 
@@ -129,19 +129,22 @@ Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure
 ---
 
 # Danです 👋  
-**テクノロジーリスク・サイバーセキュリティアナリスト**｜東京  
-
-金融機関にて15年以上、信用リスク管理、内部統制、規制対応に従事。  
-現在はテクノロジーリスクおよびサイバーセキュリティ分野へ専門性を拡張しています。
+**サイバーセキュリティ・テクノロジーリスクアナリスト**｜東京  
 
 ---
 
-## 概要
+金融リスクのバックグラウンドを持ち、現在はサイバーセキュリティおよびテクノロジーリスク分野で実務経験を積んでいます。
 
-金融リスクとITガバナンスのバックグラウンドに加え、  
-Cyber Rangeにて実践的なSOC・インシデント対応トレーニングを実施。
+セキュリティイベントの調査、インシデント対応、ガバナンス文書化を通じて、技術的な事象をリスクおよび統制へと落とし込むことを重視しています。
 
-技術的な調査結果を、リスク評価・統制・ガバナンス文書へと落とし込むことを強みとしています。
+---
+
+## 現在のフォーカス
+
+- インシデント対応（CSIRT）  
+- SIEM分析・脅威ハンティング  
+- テクノロジーリスク・ITガバナンス  
+- 統制設計・是正対応  
 
 ---
 
@@ -150,32 +153,11 @@ Cyber Rangeにて実践的なSOC・インシデント対応トレーニングを
 **サイバーセキュリティアナリスト（インターン）**  
 Cyber Range（LOG(N) Pacific）  
 
-- SIEM（Microsoft Sentinel, Defender for Endpoint, Azure）を用いた調査  
+- Microsoft Sentinel / Defender を用いたログ調査  
 - MITRE ATT&CKに基づく脅威ハンティング  
-- インシデント対応・エスカレーション設計  
 - エンドポイントログ分析（プロセス・ファイル・ネットワーク）  
-
----
-
-## 主なプロジェクト
-
-### 🔎 脅威ハンティング（Tor Browser）
-- Tor通信の分析および挙動調査  
-- タイムライン再構築およびATT&CKマッピング  
-
-### 🔍 SIEMログ分析レポート
-- 攻撃シナリオの分析およびインシデントレポート作成  
-
-### 🚨 インシデント対応プレイブック
-- SLAベースのエスカレーション設計  
-- 対応フローおよび文書整備  
-
-### 🛡 脆弱性管理プログラム
-- リスクベースの優先順位付け  
-- 是正管理および追跡プロセス設計  
-
-### 🛡 ISO27001 リスクレジスター
-- リスク評価および統制マッピング  
+- インシデント対応およびエスカレーション設計  
+- Tenableを用いた脆弱性管理およびハードニング  
 
 ---
 
@@ -188,8 +170,8 @@ SIEM分析 · 脅威ハンティング · インシデント対応
 ISO27001 · NIST CSF · IT統制 · リスク評価  
 
 **ツール**  
-Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure    
+Microsoft Defender · Sentinel · Splunk · Tenable · Wireshark  
 
 ---
 
-> テクノロジーリスク、GRC、ITリスク、CSIRT、セキュリティガバナンス関連ポジションを志向しています。
+> サイバーセキュリティ、ITリスク、GRC、CSIRT関連のアナリストポジションを志向しています。
