@@ -34,9 +34,9 @@ Through practical training and projects, I focus on investigating security event
 **Cybersecurity Analyst (Intern)**  
 Cyber Range (LOG(N) Pacific) | Feb 2026 – Present  
 
-- Conducted SIEM-based investigations using Microsoft Sentinel and Defender for Endpoint  
-- Performed threat hunting aligned with MITRE ATT&CK techniques  
-- Analyzed endpoint telemetry across process, file, and network events  
+- Conducted SIEM-based investigations using Microsoft Sentinel and Microsoft Defender for Endpoint (MDE)  
+- Performed threat hunting using Advanced Hunting (KQL) aligned with MITRE ATT&CK techniques  
+- Analyzed endpoint telemetry across process, file, and network events   
 - Developed incident escalation workflows and structured investigation reports  
 - Supported vulnerability management and system hardening using Tenable Nessus  
 
@@ -48,7 +48,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 **Focus:** Endpoint telemetry analysis & threat hunting  
 
 - Investigated Tor Browser installation, execution, and network activity  
-- Reconstructed activity timeline using Microsoft Defender Advanced Hunting (KQL)  
+- Reconstructed activity timeline using Microsoft Defender for Endpoint Advanced Hunting (KQL) 
 - Identified Tor relay communication over port 9001  
 - Mapped findings to MITRE ATT&CK techniques  
 
@@ -109,7 +109,7 @@ SIEM Analysis · Threat Hunting · Incident Response · MITRE ATT&CK
 ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment · Vulnerability Management  
 
 **Tools & Platforms**  
-Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure  
+Microsoft Defender for Endpoint (MDE) · Advanced Hunting (KQL) · Microsoft Sentinel · Splunk · Tenable · Wireshark · Azure  
 
 ---
 
@@ -153,7 +153,7 @@ Microsoft Defender XDR · Sentinel · Splunk · Tenable · Wireshark · Azure
 **サイバーセキュリティアナリスト（インターン）**  
 Cyber Range（LOG(N) Pacific）  
 
-- Microsoft Sentinel / Defender を用いたログ調査  
+- Microsoft Sentinel / Microsoft Defender for Endpoint（MDE）を用いたログ調査  
 - MITRE ATT&CKに基づく脅威ハンティング  
 - エンドポイントログ分析（プロセス・ファイル・ネットワーク）  
 - インシデント対応およびエスカレーション設計  
@@ -170,7 +170,7 @@ SIEM分析 · 脅威ハンティング · インシデント対応
 ISO27001 · NIST CSF · IT統制 · リスク評価  
 
 **ツール**  
-Microsoft Defender · Sentinel · Splunk · Tenable · Wireshark  
+Microsoft Defender for Endpoint（MDE）・KQL（Advanced Hunting）・Sentinel・Splunk・Tenable・Wireshark  
 
 ---
 
