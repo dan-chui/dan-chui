@@ -14,16 +14,16 @@ GRC | IT Risk | Incident Response | Security Operations
 
 ---
 
-I am a cybersecurity and technology risk analyst with a background in financial risk, currently building hands-on experience in **security operations, incident response, and governance**.
+I am a cybersecurity analyst with a background in financial risk, currently building hands-on experience in **security operations, incident response, and technology risk**.
 
-Through practical training and projects, I focus on investigating security events, supporting incident response workflows, and translating technical findings into structured risk and control improvements.
+My work focuses on **alert triage, investigation, and escalation workflows**, as well as translating technical findings into structured risk and control improvements.
 
 ---
 
 ## 🎯 Current Focus
 
 - Incident Response & CSIRT support  
-- SIEM investigation & threat hunting  
+- SIEM investigation, alert triage & threat hunting  
 - Technology Risk & IT Governance (GRC)  
 - Control design and remediation tracking  
 
@@ -34,22 +34,23 @@ Through practical training and projects, I focus on investigating security event
 **Cybersecurity Analyst (Intern)**  
 Cyber Range (LOG(N) Pacific) | Feb 2026 – Present  
 
-- Conducted SIEM-based investigations using Microsoft Sentinel and Microsoft Defender for Endpoint (MDE)  
-- Performed threat hunting using Advanced Hunting (KQL) aligned with MITRE ATT&CK techniques  
-- Analyzed endpoint telemetry across process, file, and network events   
-- Developed incident escalation workflows and structured investigation reports  
-- Supported vulnerability management and system hardening using Tenable Nessus  
+- Conducted SIEM-based investigations and alert triage using Microsoft Sentinel and Defender for Endpoint (MDE)  
+- Performed threat hunting using Advanced Hunting (KQL) aligned with MITRE ATT&CK  
+- Analyzed endpoint telemetry (process, file, network) to identify suspicious activity  
+- Documented investigation findings and supported escalation decisions based on severity and risk  
+- Performed vulnerability assessment and remediation using Tenable Nessus, including system hardening  
 
 ---
 
 ## 📂 Selected Security & Governance Projects
 
-### 🔎 Threat Hunting Investigation: Tor Browser Activity  
-**Focus:** Endpoint telemetry analysis & threat hunting  
+### 🔎 SOC Threat Hunting & Incident Investigation: Tor Browser Activity  
+**Focus:** Endpoint telemetry analysis & SOC workflow  
 
-- Investigated Tor Browser installation, execution, and network activity  
-- Reconstructed activity timeline using Microsoft Defender for Endpoint Advanced Hunting (KQL) 
+- Conducted end-to-end investigation including alert triage, timeline reconstruction, and severity assessment  
+- Analyzed Tor Browser download, execution, and network activity using Microsoft Defender Advanced Hunting (KQL)  
 - Identified Tor relay communication over port 9001  
+- Assessed activity as non-malicious but potentially policy-violating and escalated for review  
 - Mapped findings to MITRE ATT&CK techniques  
 
 ➡️ https://github.com/dan-chui/Threat-Hunt-Tor-Browser-Investigation  
@@ -61,7 +62,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 
 - Analyzed exploitation and data exfiltration scenarios  
 - Correlated alerts and logs to produce structured incident reports  
-- Demonstrates investigation workflow and escalation reasoning  
+- Demonstrates alert triage, investigation workflow, and escalation decision-making  
 
 ➡️ https://github.com/dan-chui/SIEM-Incident-Analysis-Report  
 
@@ -103,7 +104,7 @@ Cyber Range (LOG(N) Pacific) | Feb 2026 – Present
 ## 🧰 Skills & Tools
 
 **Security Operations & Investigation**  
-SIEM Analysis · Threat Hunting · Incident Response · MITRE ATT&CK  
+SIEM Analysis · Alert Triage · Threat Hunting · Incident Response · MITRE ATT&CK  
 
 **Technology Risk & Governance**  
 ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment · Vulnerability Management  
@@ -135,14 +136,14 @@ Microsoft Defender for Endpoint (MDE) · Advanced Hunting (KQL) · Microsoft Sen
 
 金融リスクのバックグラウンドを持ち、現在はサイバーセキュリティおよびテクノロジーリスク分野で実務経験を積んでいます。
 
-セキュリティイベントの調査、インシデント対応、ガバナンス文書化を通じて、技術的な事象をリスクおよび統制へと落とし込むことを重視しています。
+アラートトリアージ、インシデント調査、エスカレーション判断を含むSOC業務フローに基づいた実務対応に強みがあります。技術的な事象をリスクおよび統制へと落とし込むことを重視しています。
 
 ---
 
 ## 現在のフォーカス
 
 - インシデント対応（CSIRT）  
-- SIEM分析・脅威ハンティング  
+- SIEM分析・アラートトリアージ・脅威ハンティング  
 - テクノロジーリスク・ITガバナンス  
 - 統制設計・是正対応  
 
@@ -153,10 +154,10 @@ Microsoft Defender for Endpoint (MDE) · Advanced Hunting (KQL) · Microsoft Sen
 **サイバーセキュリティアナリスト（インターン）**  
 Cyber Range（LOG(N) Pacific）  
 
-- Microsoft Sentinel / Microsoft Defender for Endpoint（MDE）を用いたログ調査  
+- Microsoft Sentinel / Defender for Endpointを用いたログ調査およびアラートトリアージ  
 - MITRE ATT&CKに基づく脅威ハンティング  
 - エンドポイントログ分析（プロセス・ファイル・ネットワーク）  
-- インシデント対応およびエスカレーション設計  
+- インシデント対応およびエスカレーション判断の実施  
 - Tenableを用いた脆弱性管理およびハードニング  
 
 ---
@@ -164,7 +165,7 @@ Cyber Range（LOG(N) Pacific）
 ## スキル
 
 **セキュリティ運用**  
-SIEM分析 · 脅威ハンティング · インシデント対応  
+SIEM分析 · アラートトリアージ · 脅威ハンティング · インシデント対応  
 
 **テクノロジーリスク**  
 ISO27001 · NIST CSF · IT統制 · リスク評価  
