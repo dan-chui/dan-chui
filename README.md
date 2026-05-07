@@ -1,7 +1,7 @@
 # Hi, I'm Dan 👋
 
-**Cybersecurity & Technology Risk Analyst | Financial Risk Background** • Tokyo, Japan  
-Threat Hunting | Incident Response | SIEM | GRC | Risk Analytics
+**Technology Risk & Cybersecurity Analyst | Financial Risk Background** • Tokyo, Japan  
+Microsoft Security | GRC | SIEM Analysis | Incident Analysis | Risk Analytics
 
 <a href="https://www.linkedin.com/in/danchui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
@@ -15,14 +15,20 @@ Threat Hunting | Incident Response | SIEM | GRC | Risk Analytics
 
 ---
 
-I am a cybersecurity and technology risk analyst with a background in financial risk, building hands-on experience across **security operations, incident investigation, and data-driven risk analysis**.
+I am a Technology Risk and Cybersecurity Analyst with a background in financial risk governance, combining enterprise risk experience with hands-on exposure to security operations, SIEM investigations, Microsoft security technologies, and data-driven risk analysis.
 
-My work focuses on:
+My work focuses on translating technical findings into structured risk insights, bridging cybersecurity, governance, and financial risk concepts.
 
-- Investigating attacker behavior using endpoint telemetry  
-- Reconstructing incidents and translating findings into risk insights  
-- Applying structured risk frameworks and analytical models  
-- Bridging **security operations, governance, and financial risk concepts**
+---
+
+## 🎯 Current Focus
+
+- Technology Risk / IT Risk
+- Security Governance / GRC
+- SIEM-based incident analysis
+- Microsoft Security ecosystem
+- Data-driven risk analysis and automation
+- Finance–technology crossover
 
 ---
 
@@ -30,12 +36,12 @@ My work focuses on:
 
 ### 💣 Ransomware Intrusion Threat Hunt
 
-**Focus:** Attack reconstruction & incident response
+**Focus:** Attack reconstruction & incident analysis
 
-* Reconstructed a multi-stage ransomware attack using Microsoft Defender telemetry and KQL  
-* Identified attacker activity across reconnaissance, credential discovery, persistence, staging, and impact  
-* Detected shadow copy deletion and evidence cleanup techniques  
-* Mapped attacker behavior to MITRE ATT&CK  
+- Reconstructed a multi-stage ransomware attack using Microsoft Defender telemetry and KQL
+- Identified attacker activity across reconnaissance, credential discovery, persistence, staging, and impact
+- Detected shadow copy deletion and evidence cleanup techniques
+- Mapped attacker behavior to MITRE ATT&CK
 
 ➡️ https://github.com/dan-chui/Threat-Hunt-Ransomware-Investigation
 
@@ -45,10 +51,10 @@ My work focuses on:
 
 **Focus:** Endpoint telemetry analysis & SOC workflow
 
-* Conducted end-to-end investigation including alert triage and timeline reconstruction  
-* Analyzed Tor Browser installation and network activity using Defender Advanced Hunting  
-* Identified Tor relay communication over port 9001  
-* Assessed activity and escalated based on policy and risk context  
+- Conducted end-to-end investigation including alert triage and timeline reconstruction
+- Analyzed Tor Browser installation and network activity using Defender Advanced Hunting
+- Identified Tor relay communication over port 9001
+- Assessed activity and escalated based on policy and risk context
 
 ➡️ https://github.com/dan-chui/Threat-Hunt-Tor-Browser-Investigation
 
@@ -58,8 +64,8 @@ My work focuses on:
 
 ### 🔍 SIEM Incident Analysis Report
 
-* Correlated logs and alerts to reconstruct attack scenarios  
-* Produced structured incident reports and escalation decisions  
+- Correlated logs and alerts to reconstruct attack scenarios
+- Produced structured incident reports and escalation decisions
 
 ➡️ https://github.com/dan-chui/SIEM-Incident-Analysis-Report
 
@@ -67,8 +73,8 @@ My work focuses on:
 
 ### 🚨 Incident Escalation Playbook
 
-* Designed SOC Tier-1 escalation workflows based on severity and SLA  
-* Defined communication and documentation standards  
+- Designed SOC/CSIRT escalation workflows based on severity and SLA
+- Defined communication and documentation standards for structured handoff
 
 ➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
 
@@ -78,8 +84,8 @@ My work focuses on:
 
 ### 🛡 Vulnerability Management Program
 
-* Designed risk-based remediation and prioritization workflows  
-* Defined ownership and tracking methodology  
+- Designed risk-based remediation and prioritization workflows
+- Defined ownership, tracking, and reporting methodology
 
 ➡️ https://github.com/dan-chui/Vulnerability-Management-Program
 
@@ -87,8 +93,8 @@ My work focuses on:
 
 ### 🛡 ISO/IEC 27001 Risk Register
 
-* Developed structured risk register with likelihood-impact scoring  
-* Mapped risks to Annex A controls  
+- Developed ISO/IEC 27001-aligned risk register with likelihood-impact scoring
+- Mapped risks to Annex A controls
 
 ➡️ https://github.com/dan-chui/Risk-Register
 
@@ -100,50 +106,53 @@ My work focuses on:
 
 **Focus:** Portfolio risk modeling & data-driven analysis
 
-* Built a multi-asset VaR model using Excel and Python  
-* Calculated portfolio variance, covariance matrix, and volatility  
-* Implemented both Historical VaR and Parametric VaR methods  
-* Estimated 1-day and 10-day portfolio risk using real market data  
-* Automated analysis workflow and generated reproducible outputs  
+- Built a multi-asset VaR model using Excel and Python
+- Calculated portfolio variance, covariance matrix, and volatility
+- Implemented Historical VaR and Parametric VaR methods
+- Estimated 1-day and 10-day portfolio risk using market data
+- Automated analysis workflow and generated reproducible outputs
 
 ➡️ https://github.com/dan-chui/VaR-Portfolio-Analysis
 
 ---
 
-## 🎯 Current Focus
+## 🧰 Skills & Tools
 
-* Technology Risk & Security Governance  
-* Threat Hunting & Incident Investigation  
-* SIEM analysis and telemetry-based detection  
-* Data-driven risk analysis and automation  
-* Finance–technology crossover (risk modeling & analytics)
+**Microsoft Security**  
+Microsoft Sentinel · Defender for Endpoint · Microsoft Entra ID · Microsoft Security · SC-900
+
+**Security Operations**  
+SIEM Analysis · Alert Triage · Incident Analysis · Threat Hunting · MITRE ATT&CK · KQL
+
+**Technology Risk & Governance**  
+ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment · GRC · Vulnerability Management
+
+**Data & Analysis**  
+Python · pandas · numpy · Excel · Risk Modeling · Data Analysis
+
+**Tools**  
+Microsoft Sentinel · Defender for Endpoint · Splunk · Tenable · Wireshark · Azure · Git/GitHub
 
 ---
 
-## 🧰 Skills & Tools
+## 🎓 Certifications
 
-**Security Operations**  
-Threat Hunting · SIEM Analysis · Incident Response · MITRE ATT&CK  
-
-**Technology Risk**  
-ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment  
-
-**Data & Analysis**  
-Python (pandas, numpy) · Data Analysis · Risk Modeling · Excel  
-
-**Tools**  
-Microsoft Defender for Endpoint · KQL · Microsoft Sentinel · Splunk · Tenable · Wireshark · Azure  
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- CompTIA Security+
+- ISC² Certified in Cybersecurity (CC)
+- MIT Sloan - Cybersecurity for Managers
+- AWS Certified Cloud Practitioner
 
 ---
 
 ## 📬 Contact
 
-* LinkedIn: https://www.linkedin.com/in/danchui/  
-* Blog: https://happy-bytes.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/danchui/
+- Blog: https://happy-bytes.vercel.app/
 
 ---
 
-> Open to Analyst-level roles in Cybersecurity, Technology Risk, GRC, and Finance-related Risk Roles (Tokyo / Hybrid / Remote)
+> Open to analyst-level roles in Technology Risk, IT Risk, Security Governance, GRC, Cybersecurity, and Finance-related Risk roles in Tokyo.
 
 ---
 
@@ -153,35 +162,42 @@ Microsoft Defender for Endpoint · KQL · Microsoft Sentinel · Splunk · Tenabl
 
 # Danです 👋
 
-**サイバーセキュリティ・テクノロジーリスクアナリスト**｜東京
+**テクノロジーリスク & サイバーセキュリティアナリスト**｜東京  
+金融リスク管理経験 | Microsoft Security | GRC | SIEM分析 | インシデント分析
 
 ---
 
-金融リスクのバックグラウンドを持ち、現在はサイバーセキュリティ分野において実務経験を積んでいます。
+金融リスク管理のバックグラウンドを持ち、現在はテクノロジーリスク、セキュリティガバナンス、サイバーセキュリティ分野に注力しています。
 
-特に、Microsoft DefenderやKQLを用いた脅威ハンティングおよびインシデント調査に注力しています。
+Microsoft Sentinel、Defender for Endpoint、KQL を用いたSIEM調査、アラートトリアージ、インシデント分析に加え、ISO/IEC 27001、NIST CSF、IT統制、リスク分析にも取り組んでいます。
 
 ---
 
 ## 現在のフォーカス
 
-* 脅威ハンティング・インシデント対応
-* SIEM分析・アラートトリアージ
-* テクノロジーリスク・ITガバナンス
+- テクノロジーリスク / ITリスク
+- セキュリティガバナンス / GRC
+- SIEM分析・インシデント分析
+- Microsoft Security エコシステム
+- データ分析・リスクモデリング
+- 金融 × ITリスク領域
 
 ---
 
 ## スキル
 
-**セキュリティ運用**
-脅威ハンティング · インシデント対応 · SIEM分析
+**Microsoft Security**  
+Microsoft Sentinel · Defender for Endpoint · Microsoft Entra ID · SC-900
 
-**テクノロジーリスク**
-ISO27001 · NIST CSF · IT統制
+**セキュリティ運用**  
+SIEM分析 · アラートトリアージ · インシデント分析 · 脅威ハンティング · KQL
 
-**ツール**
-Microsoft Defender · KQL · Sentinel · Splunk · Tenable
+**テクノロジーリスク**  
+ISO/IEC 27001 · NIST CSF · IT統制 · GRC · リスク評価
+
+**ツール**  
+Microsoft Sentinel · Defender for Endpoint · Splunk · Tenable · Wireshark · Azure · Git/GitHub
 
 ---
 
-> サイバーセキュリティ、ITリスク、GRC、CSIRT関連ポジションを志向しています。
+> テクノロジーリスク、ITリスク、セキュリティガバナンス、GRC、サイバーセキュリティ関連のアナリスト職を志向しています。
