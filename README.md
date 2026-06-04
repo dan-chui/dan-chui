@@ -1,7 +1,8 @@
 # Hi, I'm Dan 👋
 
-**Technology Risk & Cybersecurity Analyst | Financial Risk Background** • Tokyo, Japan  
-Microsoft Security | GRC | SIEM Analysis | Incident Analysis | Risk Analytics
+**Technology Risk & Cybersecurity Analyst** • Tokyo, Japan 🇯🇵
+
+Bridging enterprise risk management, security operations, and AI-assisted security workflows through hands-on projects, threat hunting, and governance-focused security initiatives.
 
 <a href="https://www.linkedin.com/in/danchui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
@@ -9,195 +10,211 @@ Microsoft Security | GRC | SIEM Analysis | Incident Analysis | Risk Analytics
 <a href="https://happy-bytes.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-Happy%20Bytes-0fa958?style=flat-square" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Tokyo-Japan-red?style=flat-square" />
+<a href="https://github.com/dan-chui/AI-SOC-Analyst-Agent" target="_blank">
+  <img src="https://img.shields.io/badge/Featured-AI%20SOC%20Agent-purple?style=flat-square" />
 </a>
 
 ---
 
-I am a Technology Risk and Cybersecurity Analyst with a background in financial risk governance, combining enterprise risk experience with hands-on exposure to security operations, SIEM investigations, Microsoft security technologies, and data-driven risk analysis.
+## About Me
 
-My work focuses on translating technical findings into structured risk insights, bridging cybersecurity, governance, and financial risk concepts.
+I am a Technology Risk and Cybersecurity Analyst with a background in financial risk governance and enterprise risk management.
+
+My recent work focuses on:
+
+* Technology Risk & IT Risk
+* Security Governance & GRC
+* Security Operations & Threat Hunting
+* Microsoft Security Technologies
+* AI-Assisted Security Workflows
+* Risk Analytics & Automation
+
+I enjoy translating technical findings into structured risk insights and exploring how governance, controls, and security operations intersect in modern organizations.
 
 ---
 
-## 🎯 Current Focus
+# 🚀 Featured Project
 
-- Technology Risk / IT Risk
-- Security Governance / GRC
-- SIEM-based incident analysis
-- Microsoft Security ecosystem
-- Data-driven risk analysis and automation
-- Finance–technology crossover
+## 🤖 AI SOC Analyst Agent
+
+**AI-Assisted Threat Hunting Platform**
+
+A cybersecurity capstone project combining:
+
+* Azure Log Analytics
+* Microsoft Defender for Endpoint
+* OpenAI
+* Python
+* MITRE ATT&CK
+
+Key enhancements introduced during refactoring:
+
+* Time-window guardrails
+* Row-limiting controls
+* Sensitive data redaction
+* Table, field, and model allowlists
+* Human-in-the-loop remediation controls
+* Environment-variable configuration
+
+➡️ https://github.com/dan-chui/AI-SOC-Analyst-Agent
 
 ---
 
-## 🔎 Threat Hunting & Incident Investigation
+# 🔎 Threat Hunting & Security Operations
 
-### 💣 Ransomware Intrusion Threat Hunt
+## 💣 Ransomware Intrusion Investigation
 
-**Focus:** Attack reconstruction & incident analysis
-
-- Reconstructed a multi-stage ransomware attack using Microsoft Defender telemetry and KQL
-- Identified attacker activity across reconnaissance, credential discovery, persistence, staging, and impact
-- Detected shadow copy deletion and evidence cleanup techniques
-- Mapped attacker behavior to MITRE ATT&CK
+* Reconstructed a multi-stage ransomware attack
+* Identified persistence, credential access, staging, and impact activity
+* Mapped findings to MITRE ATT&CK
+* Produced structured incident analysis
 
 ➡️ https://github.com/dan-chui/Threat-Hunt-Ransomware-Investigation
 
----
+### 🛰️ Tor Browser Threat Hunt
 
-### 🛰️ Tor Browser Activity Threat Hunt
-
-**Focus:** Endpoint telemetry analysis & SOC workflow
-
-- Conducted end-to-end investigation including alert triage and timeline reconstruction
-- Analyzed Tor Browser installation and network activity using Defender Advanced Hunting
-- Identified Tor relay communication over port 9001
-- Assessed activity and escalated based on policy and risk context
+* Investigated endpoint activity using Defender telemetry
+* Analyzed network communications and process execution
+* Reconstructed attack timeline
+* Escalated findings based on risk context
 
 ➡️ https://github.com/dan-chui/Threat-Hunt-Tor-Browser-Investigation
 
 ---
 
-## 🧪 Security Operations & SIEM Projects
+# 🛡️ Governance, Risk & Compliance
 
-### 🔍 SIEM Incident Analysis Report
+### Vulnerability Management Program
 
-- Correlated logs and alerts to reconstruct attack scenarios
-- Produced structured incident reports and escalation decisions
-
-➡️ https://github.com/dan-chui/SIEM-Incident-Analysis-Report
-
----
-
-### 🚨 Incident Escalation Playbook
-
-- Designed SOC/CSIRT escalation workflows based on severity and SLA
-- Defined communication and documentation standards for structured handoff
-
-➡️ https://github.com/dan-chui/Incident-Escalation-Playbook-Report
-
----
-
-## 🛡 Technology Risk & Governance
-
-### 🛡 Vulnerability Management Program
-
-- Designed risk-based remediation and prioritization workflows
-- Defined ownership, tracking, and reporting methodology
+* Risk-based remediation framework
+* Ownership and reporting workflows
+* Prioritization methodology
 
 ➡️ https://github.com/dan-chui/Vulnerability-Management-Program
 
----
+### ISO/IEC 27001 Risk Register
 
-### 🛡 ISO/IEC 27001 Risk Register
-
-- Developed ISO/IEC 27001-aligned risk register with likelihood-impact scoring
-- Mapped risks to Annex A controls
+* ISO 27001-aligned risk assessment
+* Likelihood and impact scoring
+* Annex A control mapping
 
 ➡️ https://github.com/dan-chui/Risk-Register
 
 ---
 
-## 📊 Financial Risk & Data Analysis
+# 📊 Risk Analytics & Automation
 
-### 📊 Value at Risk (VaR) Portfolio Analysis
+### Value at Risk (VaR) Portfolio Analysis
 
-**Focus:** Portfolio risk modeling & data-driven analysis
-
-- Built a multi-asset VaR model using Excel and Python
-- Calculated portfolio variance, covariance matrix, and volatility
-- Implemented Historical VaR and Parametric VaR methods
-- Estimated 1-day and 10-day portfolio risk using market data
-- Automated analysis workflow and generated reproducible outputs
+* Multi-asset portfolio risk model
+* Historical and Parametric VaR
+* Python-based workflow automation
+* Quantitative risk analysis
 
 ➡️ https://github.com/dan-chui/VaR-Portfolio-Analysis
 
 ---
 
-## 🧰 Skills & Tools
+# 🧰 Skills & Technologies
 
-**Microsoft Security**  
-Microsoft Sentinel · Defender for Endpoint · Microsoft Entra ID · Microsoft Security · SC-900
+### Security Operations
 
-**Security Operations**  
-SIEM Analysis · Alert Triage · Incident Analysis · Threat Hunting · MITRE ATT&CK · KQL
+Threat Hunting • Incident Analysis • Alert Triage • MITRE ATT&CK • KQL • SIEM Analysis
 
-**Technology Risk & Governance**  
-ISO/IEC 27001 · NIST CSF · IT Controls · Risk Assessment · GRC · Vulnerability Management
+### Microsoft Security
 
-**Data & Analysis**  
-Python · pandas · numpy · Excel · Risk Modeling · Data Analysis
+Microsoft Sentinel • Defender for Endpoint • Microsoft Entra ID • Azure Log Analytics • SC-900
 
-**Tools**  
-Microsoft Sentinel · Defender for Endpoint · Splunk · Tenable · Wireshark · Azure · Git/GitHub
+### Technology Risk & Governance
 
----
+Technology Risk • IT Risk • GRC • ISO 27001 • NIST CSF • IT Controls • Vulnerability Management
 
-## 🎓 Certifications
+### Data & Automation
 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- CompTIA Security+
-- ISC² Certified in Cybersecurity (CC)
-- MIT Sloan - Cybersecurity for Managers
-- AWS Certified Cloud Practitioner
+Python • pandas • NumPy • Excel • Data Analysis • Risk Analytics • Git/GitHub
 
 ---
 
-## 📬 Contact
+# 🎓 Certifications
 
-- LinkedIn: https://www.linkedin.com/in/danchui/
-- Blog: https://happy-bytes.vercel.app/
-
----
-
-> Open to analyst-level roles in Technology Risk, IT Risk, Security Governance, GRC, Cybersecurity, and Finance-related Risk roles in Tokyo.
-
----
-
-# 🇯🇵 日本語版 README
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+* CompTIA Security+
+* ISC² Certified in Cybersecurity (CC)
+* MIT Sloan – Cybersecurity for Managers
+* AWS Certified Cloud Practitioner
 
 ---
 
-# Danです 👋
+# 📬 Connect
 
-**テクノロジーリスク & サイバーセキュリティアナリスト**｜東京  
-金融リスク管理経験 | Microsoft Security | GRC | SIEM分析 | インシデント分析
-
----
-
-金融リスク管理のバックグラウンドを持ち、現在はテクノロジーリスク、セキュリティガバナンス、サイバーセキュリティ分野に注力しています。
-
-Microsoft Sentinel、Defender for Endpoint、KQL を用いたSIEM調査、アラートトリアージ、インシデント分析に加え、ISO/IEC 27001、NIST CSF、IT統制、リスク分析にも取り組んでいます。
+* LinkedIn: https://www.linkedin.com/in/danchui/
+* Blog: https://happy-bytes.vercel.app/
 
 ---
 
-## 現在のフォーカス
-
-- テクノロジーリスク / ITリスク
-- セキュリティガバナンス / GRC
-- SIEM分析・インシデント分析
-- Microsoft Security エコシステム
-- データ分析・リスクモデリング
-- 金融 × ITリスク領域
+> Currently exploring opportunities in Technology Risk, IT Risk, Security Governance, GRC, Security Operations, and cybersecurity-adjacent analyst roles in Tokyo and international environments.
 
 ---
 
-## スキル
+# 🇯🇵 日本語
 
-**Microsoft Security**  
-Microsoft Sentinel · Defender for Endpoint · Microsoft Entra ID · SC-900
+## Danです 👋
 
-**セキュリティ運用**  
-SIEM分析 · アラートトリアージ · インシデント分析 · 脅威ハンティング · KQL
+**テクノロジーリスク & サイバーセキュリティアナリスト**｜東京
 
-**テクノロジーリスク**  
-ISO/IEC 27001 · NIST CSF · IT統制 · GRC · リスク評価
+金融リスク管理のバックグラウンドを活かしながら、現在はテクノロジーリスク、セキュリティガバナンス、サイバーセキュリティ分野に取り組んでいます。
 
-**ツール**  
-Microsoft Sentinel · Defender for Endpoint · Splunk · Tenable · Wireshark · Azure · Git/GitHub
+特に以下の領域に関心があります。
+
+* テクノロジーリスク / ITリスク
+* セキュリティガバナンス / GRC
+* セキュリティ運用（SOC）
+* 脅威ハンティング
+* Microsoft Security
+* AIを活用したセキュリティ分析
 
 ---
 
-> テクノロジーリスク、ITリスク、セキュリティガバナンス、GRC、サイバーセキュリティ関連のアナリスト職を志向しています。
+## 主なプロジェクト
+
+### 🤖 AI SOC Analyst Agent
+
+Azure Log Analytics、Microsoft Defender、OpenAI、Python を活用した AI支援型脅威ハンティングプロジェクトです。
+
+主な改善点：
+
+* ガードレールの実装
+* PII（個人情報）保護
+* データ取得範囲の制御
+* 人による承認プロセス
+* 設定・ドキュメントの改善
+
+➡️ https://github.com/dan-chui/AI-SOC-Analyst-Agent
+
+---
+
+## 保有資格
+
+* CompTIA Security+
+* ISC² Certified in Cybersecurity (CC)
+* Microsoft SC-900
+* MIT Cybersecurity for Managers
+* AWS Certified Cloud Practitioner
+
+---
+
+## リンク
+
+* LinkedIn: https://www.linkedin.com/in/danchui/
+* Blog: https://happy-bytes.vercel.app/
+
+---
+
+現在、東京を中心に以下の分野に関連するポジションに関心があります。
+
+* テクノロジーリスク
+* ITリスク
+* セキュリティガバナンス
+* GRC
+* サイバーセキュリティ
+* セキュリティ運用（SOC）
