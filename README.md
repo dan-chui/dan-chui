@@ -1,8 +1,8 @@
 # Hi, I'm Dan 👋
 
-**Technology Risk & Cybersecurity Analyst** • Tokyo, Japan 🇯🇵
+**Technology Risk • Azure • Cybersecurity** • Tokyo, Japan 🇯🇵
 
-Bridging enterprise risk management, security operations, and AI-assisted security workflows through hands-on projects, threat hunting, and governance-focused security initiatives.
+Bridging enterprise technology, cloud infrastructure, cybersecurity, and risk management through hands-on projects focused on Microsoft technologies, governance, and security operations.
 
 <a href="https://www.linkedin.com/in/danchui/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
@@ -16,24 +16,28 @@ Bridging enterprise risk management, security operations, and AI-assisted securi
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Technology Risk and Cybersecurity Analyst with a background in financial risk governance and enterprise risk management.
+I'm a Technology Risk professional transitioning into Enterprise IT, Azure, and Cybersecurity after more than 15 years in financial risk management.
 
-My recent work focuses on:
+My interests span both cloud infrastructure and security, with a focus on building practical solutions using Microsoft technologies while applying governance and risk management principles.
 
-* Technology Risk & IT Risk
-* Security Governance & GRC
-* Security Operations & Threat Hunting
-* Microsoft Security Technologies
-* AI-Assisted Security Workflows
-* Risk Analytics & Automation
+Current focus areas include:
 
-I enjoy translating technical findings into structured risk insights and exploring how governance, controls, and security operations intersect in modern organizations.
+- ☁️ Azure Administration
+- 🔐 Microsoft Security
+- 🛡️ Technology Risk & IT Risk
+- 📊 Governance, Risk & Compliance (GRC)
+- 🔎 Security Operations & Threat Hunting
+- 🤖 AI-Assisted Security Workflows
+
+I enjoy understanding how enterprise infrastructure, cloud platforms, governance, automation, and cybersecurity work together to improve organizational resilience.
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
+This portfolio demonstrates practical work across Azure, Microsoft Security, Technology Risk, Security Operations, AI-assisted security, and quantitative risk analytics.
 
 ## 🤖 AI SOC Analyst Agent
 
@@ -115,23 +119,42 @@ Key enhancements introduced during refactoring:
 
 ---
 
+# ☁️ Azure & Cloud (Coming Soon)
+
+Currently building practical Azure administration projects while preparing for Microsoft AZ-104.
+
+Topics include:
+
+- Azure Virtual Machines
+- Virtual Networks
+- Storage
+- Microsoft Entra ID
+- RBAC
+- Azure Monitor
+- Backup & Recovery
+- PowerShell Automation
+- Infrastructure as Code (Terraform)
+
+🚧 This section will be expanded as I progress through Microsoft AZ-104 and build practical Azure administration projects.
+
+---
+
 # 🧰 Skills & Technologies
 
-### Security Operations
+### ☁️ Cloud
+Azure • Microsoft Entra ID • Azure Monitor • Azure Log Analytics • PowerShell (Learning) • Terraform (Planned)
 
-Threat Hunting • Incident Analysis • Alert Triage • MITRE ATT&CK • KQL • SIEM Analysis
+### 🔐 Security
+Threat Hunting • Incident Analysis • MITRE ATT&CK • Microsoft Defender • Microsoft Sentinel • KQL
 
-### Microsoft Security
+### 🏢 Enterprise Technology
+Windows • Microsoft 365 • Identity & Access Management • IT Operations • Enterprise Infrastructure
 
-Microsoft Sentinel • Defender for Endpoint • Microsoft Entra ID • Azure Log Analytics • SC-900
+### 🛡️ Technology Risk
+Technology Risk • IT Risk • GRC • ISO/IEC 27001 • NIST CSF • IT Controls • Risk Assessments
 
-### Technology Risk & Governance
-
-Technology Risk • IT Risk • GRC • ISO 27001 • NIST CSF • IT Controls • Vulnerability Management
-
-### Data & Automation
-
-Python • pandas • NumPy • Excel • Data Analysis • Risk Analytics • Git/GitHub
+### 💻 Data & Automation
+Python • Git • GitHub • pandas • NumPy • Excel
 
 ---
 
@@ -140,9 +163,10 @@ Python • pandas • NumPy • Excel • Data Analysis • Risk Analytics • G
 * Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 * CompTIA Security+
 * ISC² Certified in Cybersecurity (CC)
-* MIT Sloan – Cybersecurity for Managers
 * AWS Certified Cloud Practitioner
-
+* MIT Sloan – Cybersecurity for Managers
+* Microsoft Certified: Azure Administrator Associate (AZ-104) *(In Progress)*
+  
 ---
 
 # 📬 Connect
@@ -152,7 +176,7 @@ Python • pandas • NumPy • Excel • Data Analysis • Risk Analytics • G
 
 ---
 
-> Currently exploring opportunities in Technology Risk, IT Risk, Security Governance, GRC, Security Operations, and cybersecurity-adjacent analyst roles in Tokyo and international environments.
+> 📌 Interested in opportunities across Technology Risk, Azure, Cloud Operations, Infrastructure, Microsoft Security, IT Risk, Governance, and cybersecurity-adjacent enterprise IT roles.
 
 ---
 
@@ -162,16 +186,17 @@ Python • pandas • NumPy • Excel • Data Analysis • Risk Analytics • G
 
 **テクノロジーリスク & サイバーセキュリティアナリスト**｜東京
 
-金融リスク管理のバックグラウンドを活かしながら、現在はテクノロジーリスク、セキュリティガバナンス、サイバーセキュリティ分野に取り組んでいます。
+金融リスク管理で培った経験を活かしながら、現在はAzure、クラウドインフラ、テクノロジーリスク、Microsoft Security、サイバーセキュリティ分野を中心に学習と実践的なプロジェクトに取り組んでいます。
 
 特に以下の領域に関心があります。
 
-* テクノロジーリスク / ITリスク
-* セキュリティガバナンス / GRC
-* セキュリティ運用（SOC）
-* 脅威ハンティング
+* テクノロジーリスク
+* Azure
+* クラウド
 * Microsoft Security
-* AIを活用したセキュリティ分析
+* ITインフラ
+* セキュリティ運用
+* GRC
 
 ---
 
@@ -195,11 +220,12 @@ Azure Log Analytics、Microsoft Defender、OpenAI、Python を活用した AI支
 
 ## 保有資格
 
+* Microsoft SC-900
 * CompTIA Security+
 * ISC² Certified in Cybersecurity (CC)
-* Microsoft SC-900
-* MIT Cybersecurity for Managers
 * AWS Certified Cloud Practitioner
+* MIT Cybersecurity for Managers
+* Microsoft Certified: Azure Administrator Associate (AZ-104) *(学習中)*
 
 ---
 
