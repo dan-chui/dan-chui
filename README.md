@@ -220,7 +220,7 @@ Azure Log Analytics、Microsoft Defender、OpenAI、Python を活用した AI支
 
 ## 保有資格
 
-* Microsoft SC-900
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 * CompTIA Security+
 * ISC² Certified in Cybersecurity (CC)
 * AWS Certified Cloud Practitioner
